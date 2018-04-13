@@ -19,24 +19,18 @@ except ImportError:
 
 
 ######## CHANGE THIS ##########
-project_name = "AY182_IT105"
+project_name = "AY184_IT105"
 ###############################
 
-master_url = None
 doctrees = None
-if master_url is None:
-    if gethostname() in ['web608.webfaction.com', 'rsbuilder']:
-        master_url = 'https://runestone.academy'
-        if os.path.exists('../../custom_courses/{}'.format(project_name)):
-            doctrees = '../../custom_courses/{}/doctrees'.format(project_name)
-        else:
-            doctrees = './build/{}/doctrees'.format(project_name)
-    else:
-        master_url = 'http://127.0.0.1:8000'
-        doctrees = './build/{}/doctrees'.format(project_name)
+master_url = 'http://code.it105.army'
+if os.path.exists('../../custom_courses/{}'.format(project_name)):
+    doctrees = '../../custom_courses/{}/doctrees'.format(project_name)
+else:
+    doctrees = './build/{}/doctrees'.format(project_name)
 
 master_app = 'runestone'
-serving_dir = "./build/AY182_IT105"
+serving_dir = "./build/AY184_IT105"
 dest = "../../static"
 
 options(
@@ -57,7 +51,7 @@ options(
             'course_url':master_url,
             'use_services': 'true',
             'python3': 'true',
-            'dburl': 'postgresql://bmiller@localhost/runestone',
+            'dburl': environ['DBURL'],
             'basecourse': 'thinkcspy',
         }
 
