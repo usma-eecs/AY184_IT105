@@ -51,7 +51,7 @@ options(
             'course_url':master_url,
             'use_services': 'true',
             'python3': 'true',
-            'dburl': environ['DBURL'],
+            'dburl': environ['DBURL'], ###Log in to the database; must set environmental variables prior.
             'basecourse': 'thinkcspy',
         }
 
