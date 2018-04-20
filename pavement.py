@@ -23,7 +23,7 @@ project_name = "AY184_IT105"
 ###############################
 
 doctrees = None
-master_url = 'http://code.it105.army'
+master_url = 'https://code.it105.army'
 if os.path.exists('../../custom_courses/{}'.format(project_name)):
     doctrees = '../../custom_courses/{}/doctrees'.format(project_name)
 else:
