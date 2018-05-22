@@ -43,7 +43,7 @@
 
 .. raw:: html
 
-<h1><a href="../../assignments/chooseAssignment.html">Assignments</a></h1>
+   <h1><a href="../../assignments/chooseAssignment.html">Graded Assignments</a></h1>
 
 
 IT105 Resources
@@ -93,7 +93,7 @@ IT105 Book -- Table of Contents
    Lists/toctree.rst
    
 
-Additional Topics Outside the Scope of IT105
+Additional Fun with Python Above IT105
 ::::::::::::::::::::::::::::::::::::::::::::
 
 .. raw:: html
@@ -109,26 +109,6 @@ Additional Topics Outside the Scope of IT105
    IntroRecursion/toctree.rst
    ClassesBasics/toctree.rst
    ClassesDiggingDeeper/toctree.rst
-
-
-
-Labs
-::::
-
-.. toctree::
-   :caption: Labs
-   :maxdepth: 1
-
-   Labs/astronomylab.rst
-   Labs/lab03_01.rst
-   Labs/lab04_01.rst
-   Labs/lab04_01a.rst
-   Labs/lab12_01.rst
-   Labs/lab12_02.rst
-   Labs/montepi.rst
-   Labs/pythonshell.rst
-   Labs/sequencelab.rst
-   Labs/sinlab.rst
 
    
 Appendices
