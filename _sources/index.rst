@@ -43,7 +43,9 @@
 
 .. raw:: html
 
-   <h1><a href="../../assignments/chooseAssignment.html">Graded Assignments</a></h1>
+   <div style="text-align:center" class="center-block">
+   <h1><a href="../../assignments/chooseAssignment.html">Graded Assignments</a></h1>   
+   </div>
 
 
 IT105 Resources
