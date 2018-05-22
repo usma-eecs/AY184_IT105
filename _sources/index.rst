@@ -48,7 +48,7 @@
    </div>
 
 
-IT105 Resources
+Resources
 ::::::::::::::::::::::::
   
 .. raw:: html
@@ -61,7 +61,7 @@ IT105 Resources
    IT105Resources/IT105_ClassDemos.rst
    IT105Resources/Exercises.rst
 
-IT105 In Class Exercises (ICE)
+In Class Exercises (ICE)
 :::::::::::::::::::::::::::::::
 
 .. raw:: html  
@@ -74,7 +74,7 @@ IT105 In Class Exercises (ICE)
    ICE/ICE_LSN10_01.rst
 
    
-IT105 Book -- Table of Contents
+Table of Contents
 :::::::::::::::::::::::::::::::
 
 .. raw:: html
