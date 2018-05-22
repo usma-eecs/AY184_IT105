@@ -40,14 +40,10 @@
 
    The Runestone Interactive tools are open source and we encourage you to contact us, or grab a copy from GitHub if you would like to use them to write your own resources.
 
-Assignments
-::::::::::::
 
 .. raw:: html
 
-   <ul>
-   <li><h1><a href="../../assignments/chooseAssignment.html">Assignments</a></h1></li>
-   </ul>
+<h1><a href="../../assignments/chooseAssignment.html">Assignments</a></h1>
 
 
 IT105 Resources
@@ -76,8 +72,8 @@ IT105 In Class Exercises (ICE)
    ICE/ICE_LSN10_01.rst
 
    
-Table of Contents
-::::::::::::::::::
+IT105 Book -- Table of Contents
+:::::::::::::::::::::::::::::::
 
 .. raw:: html
    
@@ -95,7 +91,25 @@ Table of Contents
    MoreAboutIteration/toctree.rst
    Strings/toctree.rst
    Lists/toctree.rst
+   
+
+Additional Topics Outside the Scope of IT105
+::::::::::::::::::::::::::::::::::::::::::::
+
+.. raw:: html
+   
+.. toctree::
+   :numbered:
+   :maxdepth: 3 
+
    Files/toctree.rst
+   Dictionaries/toctree.rst
+   Exceptions/toctree.rst
+   GUIandEventDrivenProgramming/toctree.rst
+   IntroRecursion/toctree.rst
+   ClassesBasics/toctree.rst
+   ClassesDiggingDeeper/toctree.rst
+
 
 
 Labs
