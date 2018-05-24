@@ -15,4 +15,4 @@ Python Turtle Graphics
    AFewMoreturtleMethodsandObservations.rst
    SummaryofTurtleMethods.rst
    Glossary.rst
-   Exercises.rst
+   IT105_Exercises.rst
