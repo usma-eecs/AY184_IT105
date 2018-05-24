@@ -11,16 +11,16 @@ IT105 Exercises
 ---------------
 
 
-.. question:: turtle_ex_1
+.. question:: IT105_turtle_ex_1
    :number: 1
 
    .. tabbed:: q1
 
         .. tab:: Question
 
-           .. actex:: ex_3_1
+           .. actex:: IT105_turtle_ex1
 
-              Write a program that prints ``We like Python's turtles!`` 100 times.
+              Write a program that prints ``We like Python's turtles!`` 10 times.
               ~~~~
 
         .. tab:: Answer
@@ -28,14 +28,8 @@ IT105 Exercises
             .. activecode::  q1_answer
                 :nocanvas:
 
-                for i in range(100):
+                for i in range(10):
                     print("We like Python's turtles!")
-
-        .. tab:: Discussion
-
-            .. disqus::
-                :shortname: interactivepython
-                :identifier: f858d02024e54ae1b6b50ed8c65a01e6
 
 
 .. question:: turtle_ex_2
