@@ -6,6 +6,10 @@ Debugging Interlude 1
    :maxdepth: 2
 
    intro-HowtobeaSuccessfulProgrammer.rst
+   WhatisDebugging.rst
+   Syntaxerrors.rst
+   RuntimeErrors.rst
+   SemanticErrors.rst
    HowtoAvoidDebugging.rst
    BeginningtipsforDebugging.rst
    KnowyourerrorMessages.rst
