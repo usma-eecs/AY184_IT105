@@ -49,12 +49,12 @@
 
 
 Resources
-::::::::::::::::::::::::
+:::::::::::::::::::::::
   
 .. raw:: html
   
 .. toctree::
-   :caption: IT105Resources
+   :caption: Resources
    :maxdepth: 1
 
    IT105Resources/IT105_DocExamples.rst
@@ -80,14 +80,15 @@ Table of Contents
 .. raw:: html
    
 .. toctree::
+   :caption: Table of Contents
    :numbered:
    :maxdepth: 3 
 
    GeneralIntro/toctree.rst
    SimplePythonData/toctree.rst
-   Debugging/toctree.rst
    PythonTurtle/toctree.rst
    PythonModules/toctree.rst
+   Debugging/toctree.rst
    Functions/toctree.rst
    Selection/toctree.rst
    MoreAboutIteration/toctree.rst
@@ -101,6 +102,7 @@ Additional Fun with Python Above IT105
 .. raw:: html
    
 .. toctree::
+   :caption: More Fun With Python
    :numbered:
    :maxdepth: 3 
 
