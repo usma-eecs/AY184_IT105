@@ -106,6 +106,10 @@ Additional Fun with Python Above IT105
    :numbered:
    :maxdepth: 3 
 
+   IT105Functions/toctree.rst
+   IT105MoreAboutIteration/toctree.rst
+   IT105Strings/toctree.rst
+   IT105Lists/toctree.rst
    Files/toctree.rst
    Dictionaries/toctree.rst
    Exceptions/toctree.rst
