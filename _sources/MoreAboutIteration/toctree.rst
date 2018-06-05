@@ -2,7 +2,7 @@ More About Iteration
 ::::::::::::::::::::
 
 .. toctree::
-   :caption: More About Iteration
+   :caption: Iteration
    :maxdepth: 2
 
    intro-IterationRevisited.rst
