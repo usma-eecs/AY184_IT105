@@ -1,5 +1,5 @@
-Debugging Interlude 1
-:::::::::::::::::::::
+Debugging
+::::::::::::
 
 .. toctree::
    :caption: Debugging
