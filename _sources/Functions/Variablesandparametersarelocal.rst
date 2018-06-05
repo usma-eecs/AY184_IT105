@@ -36,7 +36,7 @@ consider again the ``square`` function:
 If you press the 'last >>' button you will see an error message.
 When we try to use ``y`` on line 6 (outside the function) Python looks for a global
 variable named ``y`` but does not find one.  This results in the
-error: ``Name Error: 'y' is not defined.``
+error: ``Name Error: `y` is not defined.``
 
 The variable ``y`` only exists while the function is being executed ---
 we call this its **lifetime**.

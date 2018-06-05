@@ -12,257 +12,341 @@ sphinx-build -b html -d ./build/AY184_IT105/doctrees -c . -a -E -Abasecourse=thi
 Running Sphinx v1.7.2
 building [mo]: all of 0 po files
 building [html]: all source files
-updating environment: 253 added, 0 changed, 0 removed
+updating environment: 337 added, 0 changed, 0 removed
 reading sources... [  0%] Appendices/PrecedenceTable
 reading sources... [  0%] Appendices/errorsAndDebug
-reading sources... [  1%] ClassesBasics/Achangeofperspective
+reading sources... [  0%] ClassesBasics/Achangeofperspective
 reading sources... [  1%] ClassesBasics/AddingOtherMethodstoourClass
 reading sources... [  1%] ClassesBasics/ConvertinganObjecttoaString
-reading sources... [  2%] ClassesBasics/Exercises
+reading sources... [  1%] ClassesBasics/Exercises
 reading sources... [  2%] ClassesBasics/Glossary
-reading sources... [  3%] ClassesBasics/ImprovingourConstructor
-reading sources... [  3%] ClassesBasics/InstancesasReturnValues
-reading sources... [  3%] ClassesBasics/Objectorientedprogramming
-reading sources... [  4%] ClassesBasics/ObjectsRevisited
-reading sources... [  4%] ClassesBasics/ObjectsasArgumentsandParameters
-reading sources... [  5%] ClassesBasics/UserDefinedClasses
-reading sources... [  5%] ClassesBasics/toctree
-reading sources... [  5%] ClassesDiggingDeeper/ArithmeticMethods
-reading sources... [  6%] ClassesDiggingDeeper/Exercises
-reading sources... [  6%] ClassesDiggingDeeper/Fractions
-reading sources... [  7%] ClassesDiggingDeeper/Glossary
-reading sources... [  7%] ClassesDiggingDeeper/ObjectsareMutable
-reading sources... [  7%] ClassesDiggingDeeper/Sameness
-reading sources... [  8%] ClassesDiggingDeeper/toctree
-reading sources... [  8%] Communications/Glossary
-reading sources... [  9%] Communications/intro-Communications
-reading sources... [  9%] Communications/toctree
-reading sources... [  9%] Debugging/BeginningtipsforDebugging
-reading sources... [ 10%] Debugging/Exercises
-reading sources... [ 10%] Debugging/HowtoAvoidDebugging
-reading sources... [ 11%] Debugging/KnowyourerrorMessages
-reading sources... [ 11%] Debugging/RuntimeErrors
-reading sources... [ 11%] Debugging/SemanticErrors
-reading sources... [ 12%] Debugging/Summary
-reading sources... [ 12%] Debugging/Syntaxerrors
-reading sources... [ 13%] Debugging/WhatisDebugging
-reading sources... [ 13%] Debugging/intro-HowtobeaSuccessfulProgrammer
-reading sources... [ 13%] Debugging/toctree
-reading sources... [ 14%] Dictionaries/Aliasingandcopying
-reading sources... [ 14%] Dictionaries/Dictionarymethods
-reading sources... [ 15%] Dictionaries/Dictionaryoperations
-reading sources... [ 15%] Dictionaries/Exercises
-reading sources... [ 15%] Dictionaries/Glossary
-reading sources... [ 16%] Dictionaries/Sparsematrices
-reading sources... [ 16%] Dictionaries/intro-Dictionaries
-reading sources... [ 16%] Dictionaries/toctree
-reading sources... [ 17%] Exceptions/01_intro_exceptions
-reading sources... [ 17%] Exceptions/02_standard_exceptions
-reading sources... [ 18%] Exceptions/03_principles_for_using_exceptions
-reading sources... [ 18%] Exceptions/04_exceptions_syntax
-reading sources... [ 18%] Exceptions/Exercises
-reading sources... [ 19%] Exceptions/glossary
-reading sources... [ 19%] Exceptions/toctree
-reading sources... [ 20%] Files/AlternativeFileReadingMethods
-reading sources... [ 20%] Files/Exercises
-reading sources... [ 20%] Files/FindingaFileonyourDisk
-reading sources... [ 21%] Files/Glossary
-reading sources... [ 21%] Files/Iteratingoverlinesinafile
-reading sources... [ 22%] Files/ReadingaFile
-reading sources... [ 22%] Files/WithStatements
-reading sources... [ 22%] Files/WritingTextFiles
-reading sources... [ 23%] Files/intro-WorkingwithDataFiles
-reading sources... [ 23%] Files/toctree
-reading sources... [ 24%] FrontBackMatter/contrib
-reading sources... [ 24%] FrontBackMatter/copyright
-reading sources... [ 24%] FrontBackMatter/fdl-1.3
-reading sources... [ 25%] FrontBackMatter/foreword
-reading sources... [ 25%] FrontBackMatter/preface
-reading sources... [ 26%] FrontBackMatter/preface2e
-reading sources... [ 26%] FrontBackMatter/prefaceinteractive
-reading sources... [ 26%] Functions/ATurtleBarChart
-reading sources... [ 27%] Functions/Composition
-reading sources... [ 27%] Functions/FlowofExecutionSummary
-reading sources... [ 28%] Functions/Functionscancallotherfunctions
-reading sources... [ 28%] Functions/Functionsthatreturnvalues
-reading sources... [ 28%] Functions/Glossary
-reading sources... [ 29%] Functions/ProgramDevelopment
-reading sources... [ 29%] Functions/ProgrammingWithStyle
-reading sources... [ 30%] Functions/TheAccumulatorPattern
-reading sources... [ 30%] Functions/UnitTesting
-reading sources... [ 30%] Functions/Variablesandparametersarelocal
-reading sources... [ 31%] Functions/functions
-reading sources... [ 31%] Functions/mainfunction
-reading sources... [ 32%] Functions/thinkcspyExercises
-reading sources... [ 32%] Functions/toctree
-reading sources... [ 32%] GUIandEventDrivenProgramming/01_intro_gui
-reading sources... [ 33%] GUIandEventDrivenProgramming/02_standard_dialog_boxes
-reading sources... [ 33%] GUIandEventDrivenProgramming/03_widgets
-reading sources... [ 33%] GUIandEventDrivenProgramming/04_layout_managers
-reading sources... [ 34%] GUIandEventDrivenProgramming/05_widget_grouping
-reading sources... [ 34%] GUIandEventDrivenProgramming/06_command_events
-reading sources... [ 35%] GUIandEventDrivenProgramming/07_event_binding
-reading sources... [ 35%] GUIandEventDrivenProgramming/08_gui_program_structure
-reading sources... [ 35%] GUIandEventDrivenProgramming/09_modifying_widgets
-reading sources... [ 36%] GUIandEventDrivenProgramming/10_timer_events
-reading sources... [ 36%] GUIandEventDrivenProgramming/11_gui_program_example
-reading sources... [ 37%] GUIandEventDrivenProgramming/12_model_view_controller
-reading sources... [ 37%] GUIandEventDrivenProgramming/Glossary
-reading sources... [ 37%] GUIandEventDrivenProgramming/toctree
-reading sources... [ 38%] GeneralIntro/ATypicalFirstProgram
-reading sources... [ 38%] GeneralIntro/Algorithms
-reading sources... [ 39%] GeneralIntro/Comments
-reading sources... [ 39%] GeneralIntro/Exercises
-reading sources... [ 39%] GeneralIntro/ExperimentalDebugging
-reading sources... [ 40%] GeneralIntro/FormalandNaturalLanguages
-reading sources... [ 40%] GeneralIntro/Glossary
-reading sources... [ 41%] GeneralIntro/MoreAboutPrograms
-reading sources... [ 41%] GeneralIntro/RuntimeErrors
-reading sources... [ 41%] GeneralIntro/SemanticErrors
-reading sources... [ 42%] GeneralIntro/SpecialWaystoExecutePythoninthisBook
-reading sources... [ 42%] GeneralIntro/Syntaxerrors
-reading sources... [ 43%] GeneralIntro/ThePythonProgrammingLanguage
-reading sources... [ 43%] GeneralIntro/WhatisDebugging
-reading sources... [ 43%] GeneralIntro/intro-TheWayoftheProgram
-reading sources... [ 44%] GeneralIntro/toctree
-reading sources... [ 44%] ICE/ICE_LSN08_01
-reading sources... [ 45%] ICE/ICE_LSN10_01
-reading sources... [ 45%] IT105Resources/Exercises
-reading sources... [ 45%] IT105Resources/IT105_ClassDemos
-reading sources... [ 46%] IT105Resources/IT105_DocExamples
-reading sources... [ 46%] IntroRecursion/CalculatingtheSumofaListofNumbers
-reading sources... [ 47%] IntroRecursion/ConvertinganIntegertoaStringinAnyBase
-reading sources... [ 47%] IntroRecursion/Glossary
-reading sources... [ 47%] IntroRecursion/ProgrammingExercises
-reading sources... [ 48%] IntroRecursion/SierpinskiTriangle
-reading sources... [ 48%] IntroRecursion/TheThreeLawsofRecursion
-reading sources... [ 49%] IntroRecursion/WhatIsRecursion
-reading sources... [ 49%] IntroRecursion/intro-VisualizingRecursion
-reading sources... [ 49%] IntroRecursion/toctree
-reading sources... [ 50%] Labs/astronomylab
-reading sources... [ 50%] Labs/lab03_01
-reading sources... [ 50%] Labs/lab04_01
-reading sources... [ 51%] Labs/lab04_01a
-reading sources... [ 51%] Labs/lab12_01
-reading sources... [ 52%] Labs/lab12_02
-reading sources... [ 52%] Labs/montepi
-reading sources... [ 52%] Labs/pythonshell
-reading sources... [ 53%] Labs/sequencelab
-reading sources... [ 53%] Labs/sinlab
-reading sources... [ 54%] Lists/AccessingElements
-reading sources... [ 54%] Lists/Aliasing
-reading sources... [ 54%] Lists/AppendversusConcatenate
-reading sources... [ 55%] Lists/CloningLists
-reading sources... [ 55%] Lists/ConcatenationandRepetition
-reading sources... [ 56%] Lists/Exercises
-reading sources... [ 56%] Lists/FunctionsthatProduceLists
-reading sources... [ 56%] Lists/Glossary
-reading sources... [ 57%] Lists/ListComprehensions
-reading sources... [ 57%] Lists/ListDeletion
-reading sources... [ 58%] Lists/ListLength
-reading sources... [ 58%] Lists/ListMembership
-reading sources... [ 58%] Lists/ListMethods
-reading sources... [ 59%] Lists/ListSlices
-reading sources... [ 59%] Lists/ListValues
-reading sources... [ 60%] Lists/Listsandforloops
-reading sources... [ 60%] Lists/ListsareMutable
-reading sources... [ 60%] Lists/NestedLists
-reading sources... [ 61%] Lists/ObjectsandReferences
-reading sources... [ 61%] Lists/PureFunctions
-reading sources... [ 62%] Lists/RepetitionandReferences
-reading sources... [ 62%] Lists/StringsandLists
-reading sources... [ 62%] Lists/TheReturnofLSystems
-reading sources... [ 63%] Lists/TupleAssignment
-reading sources... [ 63%] Lists/TuplesandMutability
-reading sources... [ 64%] Lists/TuplesasReturnValues
-reading sources... [ 64%] Lists/UsingListsasParameters
-reading sources... [ 64%] Lists/WhichisBetter
-reading sources... [ 65%] Lists/intro-Lists
-reading sources... [ 65%] Lists/listTypeConversionFunction
-reading sources... [ 66%] Lists/toctree
-reading sources... [ 66%] MoreAboutIteration/2DimensionalIterationImageProcessing
-reading sources... [ 66%] MoreAboutIteration/AlgorithmsRevisited
-reading sources... [ 67%] MoreAboutIteration/Exercises
-reading sources... [ 67%] MoreAboutIteration/Glossary
-reading sources... [ 67%] MoreAboutIteration/ImageProcessingonYourOwn
-reading sources... [ 68%] MoreAboutIteration/Newton'sMethod
-reading sources... [ 68%] MoreAboutIteration/RandomlyWalkingTurtles
-reading sources... [ 69%] MoreAboutIteration/SentinelValuesAndValidation
-reading sources... [ 69%] MoreAboutIteration/SimpleTables
-reading sources... [ 69%] MoreAboutIteration/The3n1Sequence
-reading sources... [ 70%] MoreAboutIteration/Theforlooprevisited
-reading sources... [ 70%] MoreAboutIteration/ThewhileStatement
-reading sources... [ 71%] MoreAboutIteration/accumulatorRevisited
-reading sources... [ 71%] MoreAboutIteration/intro-IterationRevisited
-reading sources... [ 71%] MoreAboutIteration/toctree
-reading sources... [ 72%] PythonModules/Exercises
-reading sources... [ 72%] PythonModules/Glossary
-reading sources... [ 73%] PythonModules/MoreAboutUsingModules
-reading sources... [ 73%] PythonModules/Themathmodule
-reading sources... [ 73%] PythonModules/Therandommodule
-reading sources... [ 74%] PythonModules/modules
-reading sources... [ 74%] PythonModules/toctree
-reading sources... [ 75%] PythonTurtle/AFewMoreturtleMethodsandObservations
-reading sources... [ 75%] PythonTurtle/Exercises
-reading sources... [ 75%] PythonTurtle/FlowofExecutionoftheforLoop
-reading sources... [ 76%] PythonTurtle/Glossary
-reading sources... [ 76%] PythonTurtle/IT105_Exercises
-reading sources... [ 77%] PythonTurtle/InstancesAHerdofTurtles
-reading sources... [ 77%] PythonTurtle/IterationSimplifiesourTurtleProgram
-reading sources... [ 77%] PythonTurtle/OurFirstTurtleProgram
-reading sources... [ 78%] PythonTurtle/SummaryofTurtleMethods
-reading sources... [ 78%] PythonTurtle/TheforLoop
-reading sources... [ 79%] PythonTurtle/TherangeFunction
-reading sources... [ 79%] PythonTurtle/intro-HelloLittleTurtles
-reading sources... [ 79%] PythonTurtle/toctree
-reading sources... [ 80%] Selection/BooleanFunctions
-reading sources... [ 80%] Selection/BooleanValuesandBooleanExpressions
-reading sources... [ 81%] Selection/Chainedconditionals
-reading sources... [ 81%] Selection/ConditionalExecutionBinarySelection
-reading sources... [ 81%] Selection/Exercises
-reading sources... [ 82%] Selection/Glossary
-reading sources... [ 82%] Selection/Logicaloperators
-reading sources... [ 83%] Selection/Nestedconditionals
-reading sources... [ 83%] Selection/OmittingtheelseClauseUnarySelection
-reading sources... [ 83%] Selection/PrecedenceofOperators
-reading sources... [ 84%] Selection/toctree
-reading sources... [ 84%] SimplePythonData/Exercises
-reading sources... [ 84%] SimplePythonData/Glossary
-reading sources... [ 85%] SimplePythonData/Input
-reading sources... [ 85%] SimplePythonData/OperatorsandOperands
-reading sources... [ 86%] SimplePythonData/OrderofOperations
-reading sources... [ 86%] SimplePythonData/Reassignment
-reading sources... [ 86%] SimplePythonData/StatementsandExpressions
-reading sources... [ 87%] SimplePythonData/Typeconversionfunctions
-reading sources... [ 87%] SimplePythonData/UpdatingVariables
-reading sources... [ 88%] SimplePythonData/ValuesandDataTypes
-reading sources... [ 88%] SimplePythonData/VariableNamesandKeywords
-reading sources... [ 88%] SimplePythonData/Variables
-reading sources... [ 89%] SimplePythonData/intro-VariablesExpressionsandStatements
-reading sources... [ 89%] SimplePythonData/toctree
-reading sources... [ 90%] Strings/ACollectionDataType
-reading sources... [ 90%] Strings/Afindfunction
-reading sources... [ 90%] Strings/Characterclassification
-reading sources... [ 91%] Strings/Exercises
-reading sources... [ 91%] Strings/Glossary
-reading sources... [ 92%] Strings/IndexOperatorWorkingwiththeCharactersofaString
-reading sources... [ 92%] Strings/Length
-reading sources... [ 92%] Strings/Loopingandcounting
-reading sources... [ 93%] Strings/OperationsonStrings
-reading sources... [ 93%] Strings/Optionalparameters
-reading sources... [ 94%] Strings/StringComparison
-reading sources... [ 94%] Strings/StringMethods
-reading sources... [ 94%] Strings/StringsRevisited
-reading sources... [ 95%] Strings/StringsareImmutable
-reading sources... [ 95%] Strings/Summary
-reading sources... [ 96%] Strings/TheAccumulatorPatternwithStrings
-reading sources... [ 96%] Strings/TheSliceOperator
-reading sources... [ 96%] Strings/Theinandnotinoperators
+reading sources... [  2%] ClassesBasics/ImprovingourConstructor
+reading sources... [  2%] ClassesBasics/InstancesasReturnValues
+reading sources... [  2%] ClassesBasics/Objectorientedprogramming
+reading sources... [  3%] ClassesBasics/ObjectsRevisited
+reading sources... [  3%] ClassesBasics/ObjectsasArgumentsandParameters
+reading sources... [  3%] ClassesBasics/UserDefinedClasses
+reading sources... [  4%] ClassesBasics/toctree
+reading sources... [  4%] ClassesDiggingDeeper/ArithmeticMethods
+reading sources... [  4%] ClassesDiggingDeeper/Exercises
+reading sources... [  5%] ClassesDiggingDeeper/Fractions
+reading sources... [  5%] ClassesDiggingDeeper/Glossary
+reading sources... [  5%] ClassesDiggingDeeper/ObjectsareMutable
+reading sources... [  5%] ClassesDiggingDeeper/Sameness
+reading sources... [  6%] ClassesDiggingDeeper/toctree
+reading sources... [  6%] Communications/Glossary
+reading sources... [  6%] Communications/intro-Communications
+reading sources... [  7%] Communications/toctree
+reading sources... [  7%] Debugging/BeginningtipsforDebugging
+reading sources... [  7%] Debugging/Exercises
+reading sources... [  8%] Debugging/HowtoAvoidDebugging
+reading sources... [  8%] Debugging/KnowyourerrorMessages
+reading sources... [  8%] Debugging/RuntimeErrors
+reading sources... [  8%] Debugging/SemanticErrors
+reading sources... [  9%] Debugging/Summary
+reading sources... [  9%] Debugging/Syntaxerrors
+reading sources... [  9%] Debugging/WhatisDebugging
+reading sources... [ 10%] Debugging/intro-HowtobeaSuccessfulProgrammer
+reading sources... [ 10%] Debugging/toctree
+reading sources... [ 10%] Dictionaries/Aliasingandcopying
+reading sources... [ 10%] Dictionaries/Dictionarymethods
+reading sources... [ 11%] Dictionaries/Dictionaryoperations
+reading sources... [ 11%] Dictionaries/Exercises
+reading sources... [ 11%] Dictionaries/Glossary
+reading sources... [ 12%] Dictionaries/Sparsematrices
+reading sources... [ 12%] Dictionaries/intro-Dictionaries
+reading sources... [ 12%] Dictionaries/toctree
+reading sources... [ 13%] Exceptions/01_intro_exceptions
+reading sources... [ 13%] Exceptions/02_standard_exceptions
+reading sources... [ 13%] Exceptions/03_principles_for_using_exceptions
+reading sources... [ 13%] Exceptions/04_exceptions_syntax
+reading sources... [ 14%] Exceptions/Exercises
+reading sources... [ 14%] Exceptions/glossary
+reading sources... [ 14%] Exceptions/toctree
+reading sources... [ 15%] Files/AlternativeFileReadingMethods
+reading sources... [ 15%] Files/Exercises
+reading sources... [ 15%] Files/FindingaFileonyourDisk
+reading sources... [ 16%] Files/Glossary
+reading sources... [ 16%] Files/Iteratingoverlinesinafile
+reading sources... [ 16%] Files/ReadingaFile
+reading sources... [ 16%] Files/WithStatements
+reading sources... [ 17%] Files/WritingTextFiles
+reading sources... [ 17%] Files/intro-WorkingwithDataFiles
+reading sources... [ 17%] Files/toctree
+reading sources... [ 18%] FrontBackMatter/contrib
+reading sources... [ 18%] FrontBackMatter/copyright
+reading sources... [ 18%] FrontBackMatter/fdl-1.3
+reading sources... [ 18%] FrontBackMatter/foreword
+reading sources... [ 19%] FrontBackMatter/preface
+reading sources... [ 19%] FrontBackMatter/preface2e
+reading sources... [ 19%] FrontBackMatter/prefaceinteractive
+reading sources... [ 20%] Functions/ATurtleBarChart
+reading sources... [ 20%] Functions/Composition
+reading sources... [ 20%] Functions/FlowofExecutionSummary
+reading sources... [ 21%] Functions/Functionscancallotherfunctions
+reading sources... [ 21%] Functions/Functionsthatreturnvalues
+reading sources... [ 21%] Functions/Glossary
+reading sources... [ 21%] Functions/ProgramDevelopment
+reading sources... [ 22%] Functions/ProgrammingWithStyle
+reading sources... [ 22%] Functions/TheAccumulatorPattern
+reading sources... [ 22%] Functions/UnitTesting
+reading sources... [ 23%] Functions/Variablesandparametersarelocal
+reading sources... [ 23%] Functions/functions
+reading sources... [ 23%] Functions/mainfunction
+reading sources... [ 24%] Functions/thinkcspyExercises
+reading sources... [ 24%] Functions/toctree
+reading sources... [ 24%] GUIandEventDrivenProgramming/01_intro_gui
+reading sources... [ 24%] GUIandEventDrivenProgramming/02_standard_dialog_boxes
+reading sources... [ 25%] GUIandEventDrivenProgramming/03_widgets
+reading sources... [ 25%] GUIandEventDrivenProgramming/04_layout_managers
+reading sources... [ 25%] GUIandEventDrivenProgramming/05_widget_grouping
+reading sources... [ 26%] GUIandEventDrivenProgramming/06_command_events
+reading sources... [ 26%] GUIandEventDrivenProgramming/07_event_binding
+reading sources... [ 26%] GUIandEventDrivenProgramming/08_gui_program_structure
+reading sources... [ 27%] GUIandEventDrivenProgramming/09_modifying_widgets
+reading sources... [ 27%] GUIandEventDrivenProgramming/10_timer_events
+reading sources... [ 27%] GUIandEventDrivenProgramming/11_gui_program_example
+reading sources... [ 27%] GUIandEventDrivenProgramming/12_model_view_controller
+reading sources... [ 28%] GUIandEventDrivenProgramming/Glossary
+reading sources... [ 28%] GUIandEventDrivenProgramming/toctree
+reading sources... [ 28%] GeneralIntro/ATypicalFirstProgram
+reading sources... [ 29%] GeneralIntro/Algorithms
+reading sources... [ 29%] GeneralIntro/Comments
+reading sources... [ 29%] GeneralIntro/Exercises
+reading sources... [ 29%] GeneralIntro/ExperimentalDebugging
+reading sources... [ 30%] GeneralIntro/FormalandNaturalLanguages
+reading sources... [ 30%] GeneralIntro/Glossary
+reading sources... [ 30%] GeneralIntro/MoreAboutPrograms
+reading sources... [ 31%] GeneralIntro/RuntimeErrors
+reading sources... [ 31%] GeneralIntro/SemanticErrors
+reading sources... [ 31%] GeneralIntro/SpecialWaystoExecutePythoninthisBook
+reading sources... [ 32%] GeneralIntro/Syntaxerrors
+reading sources... [ 32%] GeneralIntro/ThePythonProgrammingLanguage
+reading sources... [ 32%] GeneralIntro/WhatisDebugging
+reading sources... [ 32%] GeneralIntro/intro-TheWayoftheProgram
+reading sources... [ 33%] GeneralIntro/toctree
+reading sources... [ 33%] ICE/ICE_LSN08_01
+reading sources... [ 33%] ICE/ICE_LSN10_01
+reading sources... [ 34%] IT105Functions/ATurtleBarChart
+reading sources... [ 34%] IT105Functions/Composition
+reading sources... [ 34%] IT105Functions/FlowofExecutionSummary
+reading sources... [ 35%] IT105Functions/Functionscancallotherfunctions
+reading sources... [ 35%] IT105Functions/Functionsthatreturnvalues
+reading sources... [ 35%] IT105Functions/Glossary
+reading sources... [ 35%] IT105Functions/ProgramDevelopment
+reading sources... [ 36%] IT105Functions/ProgrammingWithStyle
+reading sources... [ 36%] IT105Functions/TheAccumulatorPattern
+reading sources... [ 36%] IT105Functions/UnitTesting
+reading sources... [ 37%] IT105Functions/Variablesandparametersarelocal
+reading sources... [ 37%] IT105Functions/functions
+reading sources... [ 37%] IT105Functions/mainfunction
+reading sources... [ 37%] IT105Functions/thinkcspyExercises
+reading sources... [ 38%] IT105Functions/toctree
+reading sources... [ 38%] IT105Lists/AccessingElements
+reading sources... [ 38%] IT105Lists/Aliasing
+reading sources... [ 39%] IT105Lists/AppendversusConcatenate
+reading sources... [ 39%] IT105Lists/CloningLists
+reading sources... [ 39%] IT105Lists/ConcatenationandRepetition
+reading sources... [ 40%] IT105Lists/Exercises
+reading sources... [ 40%] IT105Lists/FunctionsthatProduceLists
+reading sources... [ 40%] IT105Lists/Glossary
+reading sources... [ 40%] IT105Lists/ListComprehensions
+reading sources... [ 41%] IT105Lists/ListDeletion
+reading sources... [ 41%] IT105Lists/ListLength
+reading sources... [ 41%] IT105Lists/ListMembership
+reading sources... [ 42%] IT105Lists/ListMethods
+reading sources... [ 42%] IT105Lists/ListSlices
+reading sources... [ 42%] IT105Lists/ListValues
+reading sources... [ 43%] IT105Lists/Listsandforloops
+reading sources... [ 43%] IT105Lists/ListsareMutable
+reading sources... [ 43%] IT105Lists/NestedLists
+reading sources... [ 43%] IT105Lists/ObjectsandReferences
+reading sources... [ 44%] IT105Lists/PureFunctions
+reading sources... [ 44%] IT105Lists/RepetitionandReferences
+reading sources... [ 44%] IT105Lists/StringsandLists
+reading sources... [ 45%] IT105Lists/TheReturnofLSystems
+reading sources... [ 45%] IT105Lists/TupleAssignment
+reading sources... [ 45%] IT105Lists/TuplesandMutability
+reading sources... [ 45%] IT105Lists/TuplesasReturnValues
+reading sources... [ 46%] IT105Lists/UsingListsasParameters
+reading sources... [ 46%] IT105Lists/WhichisBetter
+reading sources... [ 46%] IT105Lists/intro-Lists
+reading sources... [ 47%] IT105Lists/listTypeConversionFunction
+reading sources... [ 47%] IT105Lists/toctree
+reading sources... [ 47%] IT105MoreAboutIteration/2DimensionalIterationImageProcessing
+reading sources... [ 48%] IT105MoreAboutIteration/AlgorithmsRevisited
+reading sources... [ 48%] IT105MoreAboutIteration/Exercises
+reading sources... [ 48%] IT105MoreAboutIteration/Glossary
+reading sources... [ 48%] IT105MoreAboutIteration/ImageProcessingonYourOwn
+reading sources... [ 49%] IT105MoreAboutIteration/Newton'sMethod
+reading sources... [ 49%] IT105MoreAboutIteration/RandomlyWalkingTurtles
+reading sources... [ 49%] IT105MoreAboutIteration/SentinelValuesAndValidation
+reading sources... [ 50%] IT105MoreAboutIteration/SimpleTables
+reading sources... [ 50%] IT105MoreAboutIteration/The3n1Sequence
+reading sources... [ 50%] IT105MoreAboutIteration/Theforlooprevisited
+reading sources... [ 51%] IT105MoreAboutIteration/ThewhileStatement
+reading sources... [ 51%] IT105MoreAboutIteration/accumulatorRevisited
+reading sources... [ 51%] IT105MoreAboutIteration/intro-IterationRevisited
+reading sources... [ 51%] IT105MoreAboutIteration/toctree
+reading sources... [ 52%] IT105Resources/Exercises
+reading sources... [ 52%] IT105Resources/IT105_ClassDemos
+reading sources... [ 52%] IT105Resources/IT105_DocExamples
+reading sources... [ 53%] IT105Strings/ACollectionDataType
+reading sources... [ 53%] IT105Strings/Afindfunction
+reading sources... [ 53%] IT105Strings/Characterclassification
+reading sources... [ 54%] IT105Strings/Exercises
+reading sources... [ 54%] IT105Strings/Glossary
+reading sources... [ 54%] IT105Strings/IndexOperatorWorkingwiththeCharactersofaString
+reading sources... [ 54%] IT105Strings/Length
+reading sources... [ 55%] IT105Strings/Loopingandcounting
+reading sources... [ 55%] IT105Strings/OperationsonStrings
+reading sources... [ 55%] IT105Strings/Optionalparameters
+reading sources... [ 56%] IT105Strings/StringComparison
+reading sources... [ 56%] IT105Strings/StringMethods
+reading sources... [ 56%] IT105Strings/StringsRevisited
+reading sources... [ 56%] IT105Strings/StringsareImmutable
+reading sources... [ 57%] IT105Strings/Summary
+reading sources... [ 57%] IT105Strings/TheAccumulatorPatternwithStrings
+reading sources... [ 57%] IT105Strings/TheSliceOperator
+reading sources... [ 58%] IT105Strings/Theinandnotinoperators
+reading sources... [ 58%] IT105Strings/TraversalandtheforLoopByIndex
+reading sources... [ 58%] IT105Strings/TraversalandtheforLoopByItem
+reading sources... [ 59%] IT105Strings/TraversalandthewhileLoop
+reading sources... [ 59%] IT105Strings/TurtlesandStringsandLSystems
+reading sources... [ 59%] IT105Strings/toctree
+reading sources... [ 59%] IntroRecursion/CalculatingtheSumofaListofNumbers
+reading sources... [ 60%] IntroRecursion/ConvertinganIntegertoaStringinAnyBase
+reading sources... [ 60%] IntroRecursion/Glossary
+reading sources... [ 60%] IntroRecursion/ProgrammingExercises
+reading sources... [ 61%] IntroRecursion/SierpinskiTriangle
+reading sources... [ 61%] IntroRecursion/TheThreeLawsofRecursion
+reading sources... [ 61%] IntroRecursion/WhatIsRecursion
+reading sources... [ 62%] IntroRecursion/intro-VisualizingRecursion
+reading sources... [ 62%] IntroRecursion/toctree
+reading sources... [ 62%] Labs/astronomylab
+reading sources... [ 62%] Labs/lab03_01
+reading sources... [ 63%] Labs/lab04_01
+reading sources... [ 63%] Labs/lab04_01a
+reading sources... [ 63%] Labs/lab12_01
+reading sources... [ 64%] Labs/lab12_02
+reading sources... [ 64%] Labs/montepi
+reading sources... [ 64%] Labs/pythonshell
+reading sources... [ 64%] Labs/sequencelab
+reading sources... [ 65%] Labs/sinlab
+reading sources... [ 65%] Lists/AccessingElements
+reading sources... [ 65%] Lists/Aliasing
+reading sources... [ 66%] Lists/AppendversusConcatenate
+reading sources... [ 66%] Lists/CloningLists
+reading sources... [ 66%] Lists/ConcatenationandRepetition
+reading sources... [ 67%] Lists/Exercises
+reading sources... [ 67%] Lists/FunctionsthatProduceLists
+reading sources... [ 67%] Lists/Glossary
+reading sources... [ 67%] Lists/ListComprehensions
+reading sources... [ 68%] Lists/ListDeletion
+reading sources... [ 68%] Lists/ListLength
+reading sources... [ 68%] Lists/ListMembership
+reading sources... [ 69%] Lists/ListMethods
+reading sources... [ 69%] Lists/ListSlices
+reading sources... [ 69%] Lists/ListValues
+reading sources... [ 70%] Lists/Listsandforloops
+reading sources... [ 70%] Lists/ListsareMutable
+reading sources... [ 70%] Lists/NestedLists
+reading sources... [ 70%] Lists/ObjectsandReferences
+reading sources... [ 71%] Lists/PureFunctions
+reading sources... [ 71%] Lists/RepetitionandReferences
+reading sources... [ 71%] Lists/StringsandLists
+reading sources... [ 72%] Lists/TheReturnofLSystems
+reading sources... [ 72%] Lists/TupleAssignment
+reading sources... [ 72%] Lists/TuplesandMutability
+reading sources... [ 72%] Lists/TuplesasReturnValues
+reading sources... [ 73%] Lists/UsingListsasParameters
+reading sources... [ 73%] Lists/WhichisBetter
+reading sources... [ 73%] Lists/intro-Lists
+reading sources... [ 74%] Lists/listTypeConversionFunction
+reading sources... [ 74%] Lists/toctree
+reading sources... [ 74%] MoreAboutIteration/2DimensionalIterationImageProcessing
+reading sources... [ 75%] MoreAboutIteration/AlgorithmsRevisited
+reading sources... [ 75%] MoreAboutIteration/Exercises
+reading sources... [ 75%] MoreAboutIteration/Glossary
+reading sources... [ 75%] MoreAboutIteration/ImageProcessingonYourOwn
+reading sources... [ 76%] MoreAboutIteration/Newton'sMethod
+reading sources... [ 76%] MoreAboutIteration/RandomlyWalkingTurtles
+reading sources... [ 76%] MoreAboutIteration/SentinelValuesAndValidation
+reading sources... [ 77%] MoreAboutIteration/SimpleTables
+reading sources... [ 77%] MoreAboutIteration/The3n1Sequence
+reading sources... [ 77%] MoreAboutIteration/Theforlooprevisited
+reading sources... [ 78%] MoreAboutIteration/ThewhileStatement
+reading sources... [ 78%] MoreAboutIteration/accumulatorRevisited
+reading sources... [ 78%] MoreAboutIteration/intro-IterationRevisited
+reading sources... [ 78%] MoreAboutIteration/toctree
+reading sources... [ 79%] PythonModules/Exercises
+reading sources... [ 79%] PythonModules/Glossary
+reading sources... [ 79%] PythonModules/MoreAboutUsingModules
+reading sources... [ 80%] PythonModules/Themathmodule
+reading sources... [ 80%] PythonModules/Therandommodule
+reading sources... [ 80%] PythonModules/modules
+reading sources... [ 81%] PythonModules/toctree
+reading sources... [ 81%] PythonTurtle/AFewMoreturtleMethodsandObservations
+reading sources... [ 81%] PythonTurtle/Exercises
+reading sources... [ 81%] PythonTurtle/FlowofExecutionoftheforLoop
+reading sources... [ 82%] PythonTurtle/Glossary
+reading sources... [ 82%] PythonTurtle/IT105_Exercises
+reading sources... [ 82%] PythonTurtle/InstancesAHerdofTurtles
+reading sources... [ 83%] PythonTurtle/IterationSimplifiesourTurtleProgram
+reading sources... [ 83%] PythonTurtle/OurFirstTurtleProgram
+reading sources... [ 83%] PythonTurtle/SummaryofTurtleMethods
+reading sources... [ 83%] PythonTurtle/TheforLoop
+reading sources... [ 84%] PythonTurtle/TherangeFunction
+reading sources... [ 84%] PythonTurtle/intro-HelloLittleTurtles
+reading sources... [ 84%] PythonTurtle/toctree
+reading sources... [ 85%] Selection/BooleanFunctions
+reading sources... [ 85%] Selection/BooleanValuesandBooleanExpressions
+reading sources... [ 85%] Selection/Chainedconditionals
+reading sources... [ 86%] Selection/ConditionalExecutionBinarySelection
+reading sources... [ 86%] Selection/Exercises
+reading sources... [ 86%] Selection/Glossary
+reading sources... [ 86%] Selection/Logicaloperators
+reading sources... [ 87%] Selection/Nestedconditionals
+reading sources... [ 87%] Selection/OmittingtheelseClauseUnarySelection
+reading sources... [ 87%] Selection/PrecedenceofOperators
+reading sources... [ 88%] Selection/toctree
+reading sources... [ 88%] SimplePythonData/Exercises
+reading sources... [ 88%] SimplePythonData/Glossary
+reading sources... [ 89%] SimplePythonData/Input
+reading sources... [ 89%] SimplePythonData/OperatorsandOperands
+reading sources... [ 89%] SimplePythonData/OrderofOperations
+reading sources... [ 89%] SimplePythonData/Reassignment
+reading sources... [ 90%] SimplePythonData/StatementsandExpressions
+reading sources... [ 90%] SimplePythonData/Typeconversionfunctions
+reading sources... [ 90%] SimplePythonData/UpdatingVariables
+reading sources... [ 91%] SimplePythonData/ValuesandDataTypes
+reading sources... [ 91%] SimplePythonData/VariableNamesandKeywords
+reading sources... [ 91%] SimplePythonData/Variables
+reading sources... [ 91%] SimplePythonData/intro-VariablesExpressionsandStatements
+reading sources... [ 92%] SimplePythonData/toctree
+reading sources... [ 92%] Strings/ACollectionDataType
+reading sources... [ 92%] Strings/Afindfunction
+reading sources... [ 93%] Strings/Characterclassification
+reading sources... [ 93%] Strings/Exercises
+reading sources... [ 93%] Strings/Glossary
+reading sources... [ 94%] Strings/IndexOperatorWorkingwiththeCharactersofaString
+reading sources... [ 94%] Strings/Length
+reading sources... [ 94%] Strings/Loopingandcounting
+reading sources... [ 94%] Strings/OperationsonStrings
+reading sources... [ 95%] Strings/Optionalparameters
+reading sources... [ 95%] Strings/StringComparison
+reading sources... [ 95%] Strings/StringMethods
+reading sources... [ 96%] Strings/StringsRevisited
+reading sources... [ 96%] Strings/StringsareImmutable
+reading sources... [ 96%] Strings/Summary
+reading sources... [ 97%] Strings/TheAccumulatorPatternwithStrings
+reading sources... [ 97%] Strings/TheSliceOperator
+reading sources... [ 97%] Strings/Theinandnotinoperators
 reading sources... [ 97%] Strings/TraversalandtheforLoopByIndex
-reading sources... [ 97%] Strings/TraversalandtheforLoopByItem
+reading sources... [ 98%] Strings/TraversalandtheforLoopByItem
 reading sources... [ 98%] Strings/TraversalandthewhileLoop
 reading sources... [ 98%] Strings/TurtlesandStringsandLSystems
-reading sources... [ 98%] Strings/toctree
+reading sources... [ 99%] Strings/toctree
 reading sources... [ 99%] assignments
 reading sources... [ 99%] index
 reading sources... [100%] navhelp
@@ -281,6 +365,10 @@ Adding chapter subchapter info for Selection
 Adding chapter subchapter info for MoreAboutIteration
 Adding chapter subchapter info for Strings
 Adding chapter subchapter info for Lists
+Adding chapter subchapter info for IT105Functions
+Adding chapter subchapter info for IT105MoreAboutIteration
+Adding chapter subchapter info for IT105Strings
+Adding chapter subchapter info for IT105Lists
 Adding chapter subchapter info for Files
 Adding chapter subchapter info for Dictionaries
 Adding chapter subchapter info for Exceptions
@@ -294,339 +382,447 @@ checking consistency... done
 preparing documents... done
 writing output... [  0%] Appendices/PrecedenceTable
 writing output... [  0%] Appendices/errorsAndDebug
-writing output... [  1%] ClassesBasics/Achangeofperspective
+writing output... [  0%] ClassesBasics/Achangeofperspective
 writing output... [  1%] ClassesBasics/AddingOtherMethodstoourClass
 writing output... [  1%] ClassesBasics/ConvertinganObjecttoaString
-writing output... [  2%] ClassesBasics/Exercises
+writing output... [  1%] ClassesBasics/Exercises
 writing output... [  2%] ClassesBasics/Glossary
-writing output... [  3%] ClassesBasics/ImprovingourConstructor
-writing output... [  3%] ClassesBasics/InstancesasReturnValues
-writing output... [  3%] ClassesBasics/Objectorientedprogramming
-writing output... [  4%] ClassesBasics/ObjectsRevisited
-writing output... [  4%] ClassesBasics/ObjectsasArgumentsandParameters
-writing output... [  5%] ClassesBasics/UserDefinedClasses
-writing output... [  5%] ClassesBasics/toctree
-writing output... [  5%] ClassesDiggingDeeper/ArithmeticMethods
-writing output... [  6%] ClassesDiggingDeeper/Exercises
-writing output... [  6%] ClassesDiggingDeeper/Fractions
-writing output... [  7%] ClassesDiggingDeeper/Glossary
-writing output... [  7%] ClassesDiggingDeeper/ObjectsareMutable
-writing output... [  7%] ClassesDiggingDeeper/Sameness
-writing output... [  8%] ClassesDiggingDeeper/toctree
-writing output... [  8%] Communications/Glossary
-writing output... [  9%] Communications/intro-Communications
-writing output... [  9%] Communications/toctree
-writing output... [  9%] Debugging/BeginningtipsforDebugging
-writing output... [ 10%] Debugging/Exercises
-writing output... [ 10%] Debugging/HowtoAvoidDebugging
-writing output... [ 11%] Debugging/KnowyourerrorMessages
-writing output... [ 11%] Debugging/RuntimeErrors
-writing output... [ 11%] Debugging/SemanticErrors
-writing output... [ 12%] Debugging/Summary
-writing output... [ 12%] Debugging/Syntaxerrors
-writing output... [ 13%] Debugging/WhatisDebugging
-writing output... [ 13%] Debugging/intro-HowtobeaSuccessfulProgrammer
-writing output... [ 13%] Debugging/toctree
-writing output... [ 14%] Dictionaries/Aliasingandcopying
-writing output... [ 14%] Dictionaries/Dictionarymethods
-writing output... [ 15%] Dictionaries/Dictionaryoperations
-writing output... [ 15%] Dictionaries/Exercises
-writing output... [ 15%] Dictionaries/Glossary
-writing output... [ 16%] Dictionaries/Sparsematrices
-writing output... [ 16%] Dictionaries/intro-Dictionaries
-writing output... [ 16%] Dictionaries/toctree
-writing output... [ 17%] Exceptions/01_intro_exceptions
-writing output... [ 17%] Exceptions/02_standard_exceptions
-writing output... [ 18%] Exceptions/03_principles_for_using_exceptions
-writing output... [ 18%] Exceptions/04_exceptions_syntax
-writing output... [ 18%] Exceptions/Exercises
-writing output... [ 19%] Exceptions/glossary
-writing output... [ 19%] Exceptions/toctree
-writing output... [ 20%] Files/AlternativeFileReadingMethods
-writing output... [ 20%] Files/Exercises
-writing output... [ 20%] Files/FindingaFileonyourDisk
-writing output... [ 21%] Files/Glossary
-writing output... [ 21%] Files/Iteratingoverlinesinafile
-writing output... [ 22%] Files/ReadingaFile
-writing output... [ 22%] Files/WithStatements
-writing output... [ 22%] Files/WritingTextFiles
-writing output... [ 23%] Files/intro-WorkingwithDataFiles
-writing output... [ 23%] Files/toctree
-writing output... [ 24%] FrontBackMatter/contrib
-writing output... [ 24%] FrontBackMatter/copyright
-writing output... [ 24%] FrontBackMatter/fdl-1.3
-writing output... [ 25%] FrontBackMatter/foreword
-writing output... [ 25%] FrontBackMatter/preface
-writing output... [ 26%] FrontBackMatter/preface2e
-writing output... [ 26%] FrontBackMatter/prefaceinteractive
-writing output... [ 26%] Functions/ATurtleBarChart
-writing output... [ 27%] Functions/Composition
-writing output... [ 27%] Functions/FlowofExecutionSummary
-writing output... [ 28%] Functions/Functionscancallotherfunctions
-writing output... [ 28%] Functions/Functionsthatreturnvalues
-writing output... [ 28%] Functions/Glossary
-writing output... [ 29%] Functions/ProgramDevelopment
-writing output... [ 29%] Functions/ProgrammingWithStyle
-writing output... [ 30%] Functions/TheAccumulatorPattern
-writing output... [ 30%] Functions/UnitTesting
-writing output... [ 30%] Functions/Variablesandparametersarelocal
-writing output... [ 31%] Functions/functions
-writing output... [ 31%] Functions/mainfunction
-writing output... [ 32%] Functions/thinkcspyExercises
-writing output... [ 32%] Functions/toctree
-writing output... [ 32%] GUIandEventDrivenProgramming/01_intro_gui
-writing output... [ 33%] GUIandEventDrivenProgramming/02_standard_dialog_boxes
-writing output... [ 33%] GUIandEventDrivenProgramming/03_widgets
-writing output... [ 33%] GUIandEventDrivenProgramming/04_layout_managers
-writing output... [ 34%] GUIandEventDrivenProgramming/05_widget_grouping
-writing output... [ 34%] GUIandEventDrivenProgramming/06_command_events
-writing output... [ 35%] GUIandEventDrivenProgramming/07_event_binding
-writing output... [ 35%] GUIandEventDrivenProgramming/08_gui_program_structure
-writing output... [ 35%] GUIandEventDrivenProgramming/09_modifying_widgets
-writing output... [ 36%] GUIandEventDrivenProgramming/10_timer_events
-writing output... [ 36%] GUIandEventDrivenProgramming/11_gui_program_example
-writing output... [ 37%] GUIandEventDrivenProgramming/12_model_view_controller
-writing output... [ 37%] GUIandEventDrivenProgramming/Glossary
-writing output... [ 37%] GUIandEventDrivenProgramming/toctree
-writing output... [ 38%] GeneralIntro/ATypicalFirstProgram
-writing output... [ 38%] GeneralIntro/Algorithms
-writing output... [ 39%] GeneralIntro/Comments
-writing output... [ 39%] GeneralIntro/Exercises
-writing output... [ 39%] GeneralIntro/ExperimentalDebugging
-writing output... [ 40%] GeneralIntro/FormalandNaturalLanguages
-writing output... [ 40%] GeneralIntro/Glossary
-writing output... [ 41%] GeneralIntro/MoreAboutPrograms
-writing output... [ 41%] GeneralIntro/RuntimeErrors
-writing output... [ 41%] GeneralIntro/SemanticErrors
-writing output... [ 42%] GeneralIntro/SpecialWaystoExecutePythoninthisBook
-writing output... [ 42%] GeneralIntro/Syntaxerrors
-writing output... [ 43%] GeneralIntro/ThePythonProgrammingLanguage
-writing output... [ 43%] GeneralIntro/WhatisDebugging
-writing output... [ 43%] GeneralIntro/intro-TheWayoftheProgram
-writing output... [ 44%] GeneralIntro/toctree
-writing output... [ 44%] ICE/ICE_LSN08_01
-writing output... [ 45%] ICE/ICE_LSN10_01
-writing output... [ 45%] IT105Resources/Exercises
-writing output... [ 45%] IT105Resources/IT105_ClassDemos
-writing output... [ 46%] IT105Resources/IT105_DocExamples
-writing output... [ 46%] IntroRecursion/CalculatingtheSumofaListofNumbers
-writing output... [ 47%] IntroRecursion/ConvertinganIntegertoaStringinAnyBase
-writing output... [ 47%] IntroRecursion/Glossary
-writing output... [ 47%] IntroRecursion/ProgrammingExercises
-writing output... [ 48%] IntroRecursion/SierpinskiTriangle
-writing output... [ 48%] IntroRecursion/TheThreeLawsofRecursion
-writing output... [ 49%] IntroRecursion/WhatIsRecursion
-writing output... [ 49%] IntroRecursion/intro-VisualizingRecursion
-writing output... [ 49%] IntroRecursion/toctree
-writing output... [ 50%] Labs/astronomylab
-writing output... [ 50%] Labs/lab03_01
-writing output... [ 50%] Labs/lab04_01
-writing output... [ 51%] Labs/lab04_01a
-writing output... [ 51%] Labs/lab12_01
-writing output... [ 52%] Labs/lab12_02
-writing output... [ 52%] Labs/montepi
-writing output... [ 52%] Labs/pythonshell
-writing output... [ 53%] Labs/sequencelab
-writing output... [ 53%] Labs/sinlab
-writing output... [ 54%] Lists/AccessingElements
-writing output... [ 54%] Lists/Aliasing
-writing output... [ 54%] Lists/AppendversusConcatenate
-writing output... [ 55%] Lists/CloningLists
-writing output... [ 55%] Lists/ConcatenationandRepetition
-writing output... [ 56%] Lists/Exercises
-writing output... [ 56%] Lists/FunctionsthatProduceLists
-writing output... [ 56%] Lists/Glossary
-writing output... [ 57%] Lists/ListComprehensions
-writing output... [ 57%] Lists/ListDeletion
-writing output... [ 58%] Lists/ListLength
-writing output... [ 58%] Lists/ListMembership
-writing output... [ 58%] Lists/ListMethods
-writing output... [ 59%] Lists/ListSlices
-writing output... [ 59%] Lists/ListValues
-writing output... [ 60%] Lists/Listsandforloops
-writing output... [ 60%] Lists/ListsareMutable
-writing output... [ 60%] Lists/NestedLists
-writing output... [ 61%] Lists/ObjectsandReferences
-writing output... [ 61%] Lists/PureFunctions
-writing output... [ 62%] Lists/RepetitionandReferences
-writing output... [ 62%] Lists/StringsandLists
-writing output... [ 62%] Lists/TheReturnofLSystems
-writing output... [ 63%] Lists/TupleAssignment
-writing output... [ 63%] Lists/TuplesandMutability
-writing output... [ 64%] Lists/TuplesasReturnValues
-writing output... [ 64%] Lists/UsingListsasParameters
-writing output... [ 64%] Lists/WhichisBetter
-writing output... [ 65%] Lists/intro-Lists
-writing output... [ 65%] Lists/listTypeConversionFunction
-writing output... [ 66%] Lists/toctree
-writing output... [ 66%] MoreAboutIteration/2DimensionalIterationImageProcessing
-writing output... [ 66%] MoreAboutIteration/AlgorithmsRevisited
-writing output... [ 67%] MoreAboutIteration/Exercises
-writing output... [ 67%] MoreAboutIteration/Glossary
-writing output... [ 67%] MoreAboutIteration/ImageProcessingonYourOwn
-writing output... [ 68%] MoreAboutIteration/Newton'sMethod
-writing output... [ 68%] MoreAboutIteration/RandomlyWalkingTurtles
-writing output... [ 69%] MoreAboutIteration/SentinelValuesAndValidation
-writing output... [ 69%] MoreAboutIteration/SimpleTables
-writing output... [ 69%] MoreAboutIteration/The3n1Sequence
-writing output... [ 70%] MoreAboutIteration/Theforlooprevisited
-writing output... [ 70%] MoreAboutIteration/ThewhileStatement
-writing output... [ 71%] MoreAboutIteration/accumulatorRevisited
-writing output... [ 71%] MoreAboutIteration/intro-IterationRevisited
-writing output... [ 71%] MoreAboutIteration/toctree
-writing output... [ 72%] PythonModules/Exercises
-writing output... [ 72%] PythonModules/Glossary
-writing output... [ 73%] PythonModules/MoreAboutUsingModules
-writing output... [ 73%] PythonModules/Themathmodule
-writing output... [ 73%] PythonModules/Therandommodule
-writing output... [ 74%] PythonModules/modules
-writing output... [ 74%] PythonModules/toctree
-writing output... [ 75%] PythonTurtle/AFewMoreturtleMethodsandObservations
-writing output... [ 75%] PythonTurtle/Exercises
-writing output... [ 75%] PythonTurtle/FlowofExecutionoftheforLoop
-writing output... [ 76%] PythonTurtle/Glossary
-writing output... [ 76%] PythonTurtle/IT105_Exercises
-writing output... [ 77%] PythonTurtle/InstancesAHerdofTurtles
-writing output... [ 77%] PythonTurtle/IterationSimplifiesourTurtleProgram
-writing output... [ 77%] PythonTurtle/OurFirstTurtleProgram
-writing output... [ 78%] PythonTurtle/SummaryofTurtleMethods
-writing output... [ 78%] PythonTurtle/TheforLoop
-writing output... [ 79%] PythonTurtle/TherangeFunction
-writing output... [ 79%] PythonTurtle/intro-HelloLittleTurtles
-writing output... [ 79%] PythonTurtle/toctree
-writing output... [ 80%] Selection/BooleanFunctions
-writing output... [ 80%] Selection/BooleanValuesandBooleanExpressions
-writing output... [ 81%] Selection/Chainedconditionals
-writing output... [ 81%] Selection/ConditionalExecutionBinarySelection
-writing output... [ 81%] Selection/Exercises
-writing output... [ 82%] Selection/Glossary
-writing output... [ 82%] Selection/Logicaloperators
-writing output... [ 83%] Selection/Nestedconditionals
-writing output... [ 83%] Selection/OmittingtheelseClauseUnarySelection
-writing output... [ 83%] Selection/PrecedenceofOperators
-writing output... [ 84%] Selection/toctree
-writing output... [ 84%] SimplePythonData/Exercises
-writing output... [ 84%] SimplePythonData/Glossary
-writing output... [ 85%] SimplePythonData/Input
-writing output... [ 85%] SimplePythonData/OperatorsandOperands
-writing output... [ 86%] SimplePythonData/OrderofOperations
-writing output... [ 86%] SimplePythonData/Reassignment
-writing output... [ 86%] SimplePythonData/StatementsandExpressions
-writing output... [ 87%] SimplePythonData/Typeconversionfunctions
-writing output... [ 87%] SimplePythonData/UpdatingVariables
-writing output... [ 88%] SimplePythonData/ValuesandDataTypes
-writing output... [ 88%] SimplePythonData/VariableNamesandKeywords
-writing output... [ 88%] SimplePythonData/Variables
-writing output... [ 89%] SimplePythonData/intro-VariablesExpressionsandStatements
-writing output... [ 89%] SimplePythonData/toctree
-writing output... [ 90%] Strings/ACollectionDataType
-writing output... [ 90%] Strings/Afindfunction
-writing output... [ 90%] Strings/Characterclassification
-writing output... [ 91%] Strings/Exercises
-writing output... [ 91%] Strings/Glossary
-writing output... [ 92%] Strings/IndexOperatorWorkingwiththeCharactersofaString
-writing output... [ 92%] Strings/Length
-writing output... [ 92%] Strings/Loopingandcounting
-writing output... [ 93%] Strings/OperationsonStrings
-writing output... [ 93%] Strings/Optionalparameters
-writing output... [ 94%] Strings/StringComparison
-writing output... [ 94%] Strings/StringMethods
-writing output... [ 94%] Strings/StringsRevisited
-writing output... [ 95%] Strings/StringsareImmutable
-writing output... [ 95%] Strings/Summary
-writing output... [ 96%] Strings/TheAccumulatorPatternwithStrings
-writing output... [ 96%] Strings/TheSliceOperator
-writing output... [ 96%] Strings/Theinandnotinoperators
+writing output... [  2%] ClassesBasics/ImprovingourConstructor
+writing output... [  2%] ClassesBasics/InstancesasReturnValues
+writing output... [  2%] ClassesBasics/Objectorientedprogramming
+writing output... [  3%] ClassesBasics/ObjectsRevisited
+writing output... [  3%] ClassesBasics/ObjectsasArgumentsandParameters
+writing output... [  3%] ClassesBasics/UserDefinedClasses
+writing output... [  4%] ClassesBasics/toctree
+writing output... [  4%] ClassesDiggingDeeper/ArithmeticMethods
+writing output... [  4%] ClassesDiggingDeeper/Exercises
+writing output... [  5%] ClassesDiggingDeeper/Fractions
+writing output... [  5%] ClassesDiggingDeeper/Glossary
+writing output... [  5%] ClassesDiggingDeeper/ObjectsareMutable
+writing output... [  5%] ClassesDiggingDeeper/Sameness
+writing output... [  6%] ClassesDiggingDeeper/toctree
+writing output... [  6%] Communications/Glossary
+writing output... [  6%] Communications/intro-Communications
+writing output... [  7%] Communications/toctree
+writing output... [  7%] Debugging/BeginningtipsforDebugging
+writing output... [  7%] Debugging/Exercises
+writing output... [  8%] Debugging/HowtoAvoidDebugging
+writing output... [  8%] Debugging/KnowyourerrorMessages
+writing output... [  8%] Debugging/RuntimeErrors
+writing output... [  8%] Debugging/SemanticErrors
+writing output... [  9%] Debugging/Summary
+writing output... [  9%] Debugging/Syntaxerrors
+writing output... [  9%] Debugging/WhatisDebugging
+writing output... [ 10%] Debugging/intro-HowtobeaSuccessfulProgrammer
+writing output... [ 10%] Debugging/toctree
+writing output... [ 10%] Dictionaries/Aliasingandcopying
+writing output... [ 10%] Dictionaries/Dictionarymethods
+writing output... [ 11%] Dictionaries/Dictionaryoperations
+writing output... [ 11%] Dictionaries/Exercises
+writing output... [ 11%] Dictionaries/Glossary
+writing output... [ 12%] Dictionaries/Sparsematrices
+writing output... [ 12%] Dictionaries/intro-Dictionaries
+writing output... [ 12%] Dictionaries/toctree
+writing output... [ 13%] Exceptions/01_intro_exceptions
+writing output... [ 13%] Exceptions/02_standard_exceptions
+writing output... [ 13%] Exceptions/03_principles_for_using_exceptions
+writing output... [ 13%] Exceptions/04_exceptions_syntax
+writing output... [ 14%] Exceptions/Exercises
+writing output... [ 14%] Exceptions/glossary
+writing output... [ 14%] Exceptions/toctree
+writing output... [ 15%] Files/AlternativeFileReadingMethods
+writing output... [ 15%] Files/Exercises
+writing output... [ 15%] Files/FindingaFileonyourDisk
+writing output... [ 16%] Files/Glossary
+writing output... [ 16%] Files/Iteratingoverlinesinafile
+writing output... [ 16%] Files/ReadingaFile
+writing output... [ 16%] Files/WithStatements
+writing output... [ 17%] Files/WritingTextFiles
+writing output... [ 17%] Files/intro-WorkingwithDataFiles
+writing output... [ 17%] Files/toctree
+writing output... [ 18%] FrontBackMatter/contrib
+writing output... [ 18%] FrontBackMatter/copyright
+writing output... [ 18%] FrontBackMatter/fdl-1.3
+writing output... [ 18%] FrontBackMatter/foreword
+writing output... [ 19%] FrontBackMatter/preface
+writing output... [ 19%] FrontBackMatter/preface2e
+writing output... [ 19%] FrontBackMatter/prefaceinteractive
+writing output... [ 20%] Functions/ATurtleBarChart
+writing output... [ 20%] Functions/Composition
+writing output... [ 20%] Functions/FlowofExecutionSummary
+writing output... [ 21%] Functions/Functionscancallotherfunctions
+writing output... [ 21%] Functions/Functionsthatreturnvalues
+writing output... [ 21%] Functions/Glossary
+writing output... [ 21%] Functions/ProgramDevelopment
+writing output... [ 22%] Functions/ProgrammingWithStyle
+writing output... [ 22%] Functions/TheAccumulatorPattern
+writing output... [ 22%] Functions/UnitTesting
+writing output... [ 23%] Functions/Variablesandparametersarelocal
+writing output... [ 23%] Functions/functions
+writing output... [ 23%] Functions/mainfunction
+writing output... [ 24%] Functions/thinkcspyExercises
+writing output... [ 24%] Functions/toctree
+writing output... [ 24%] GUIandEventDrivenProgramming/01_intro_gui
+writing output... [ 24%] GUIandEventDrivenProgramming/02_standard_dialog_boxes
+writing output... [ 25%] GUIandEventDrivenProgramming/03_widgets
+writing output... [ 25%] GUIandEventDrivenProgramming/04_layout_managers
+writing output... [ 25%] GUIandEventDrivenProgramming/05_widget_grouping
+writing output... [ 26%] GUIandEventDrivenProgramming/06_command_events
+writing output... [ 26%] GUIandEventDrivenProgramming/07_event_binding
+writing output... [ 26%] GUIandEventDrivenProgramming/08_gui_program_structure
+writing output... [ 27%] GUIandEventDrivenProgramming/09_modifying_widgets
+writing output... [ 27%] GUIandEventDrivenProgramming/10_timer_events
+writing output... [ 27%] GUIandEventDrivenProgramming/11_gui_program_example
+writing output... [ 27%] GUIandEventDrivenProgramming/12_model_view_controller
+writing output... [ 28%] GUIandEventDrivenProgramming/Glossary
+writing output... [ 28%] GUIandEventDrivenProgramming/toctree
+writing output... [ 28%] GeneralIntro/ATypicalFirstProgram
+writing output... [ 29%] GeneralIntro/Algorithms
+writing output... [ 29%] GeneralIntro/Comments
+writing output... [ 29%] GeneralIntro/Exercises
+writing output... [ 29%] GeneralIntro/ExperimentalDebugging
+writing output... [ 30%] GeneralIntro/FormalandNaturalLanguages
+writing output... [ 30%] GeneralIntro/Glossary
+writing output... [ 30%] GeneralIntro/MoreAboutPrograms
+writing output... [ 31%] GeneralIntro/RuntimeErrors
+writing output... [ 31%] GeneralIntro/SemanticErrors
+writing output... [ 31%] GeneralIntro/SpecialWaystoExecutePythoninthisBook
+writing output... [ 32%] GeneralIntro/Syntaxerrors
+writing output... [ 32%] GeneralIntro/ThePythonProgrammingLanguage
+writing output... [ 32%] GeneralIntro/WhatisDebugging
+writing output... [ 32%] GeneralIntro/intro-TheWayoftheProgram
+writing output... [ 33%] GeneralIntro/toctree
+writing output... [ 33%] ICE/ICE_LSN08_01
+writing output... [ 33%] ICE/ICE_LSN10_01
+writing output... [ 34%] IT105Functions/ATurtleBarChart
+writing output... [ 34%] IT105Functions/Composition
+writing output... [ 34%] IT105Functions/FlowofExecutionSummary
+writing output... [ 35%] IT105Functions/Functionscancallotherfunctions
+writing output... [ 35%] IT105Functions/Functionsthatreturnvalues
+writing output... [ 35%] IT105Functions/Glossary
+writing output... [ 35%] IT105Functions/ProgramDevelopment
+writing output... [ 36%] IT105Functions/ProgrammingWithStyle
+writing output... [ 36%] IT105Functions/TheAccumulatorPattern
+writing output... [ 36%] IT105Functions/UnitTesting
+writing output... [ 37%] IT105Functions/Variablesandparametersarelocal
+writing output... [ 37%] IT105Functions/functions
+writing output... [ 37%] IT105Functions/mainfunction
+writing output... [ 37%] IT105Functions/thinkcspyExercises
+writing output... [ 38%] IT105Functions/toctree
+writing output... [ 38%] IT105Lists/AccessingElements
+writing output... [ 38%] IT105Lists/Aliasing
+writing output... [ 39%] IT105Lists/AppendversusConcatenate
+writing output... [ 39%] IT105Lists/CloningLists
+writing output... [ 39%] IT105Lists/ConcatenationandRepetition
+writing output... [ 40%] IT105Lists/Exercises
+writing output... [ 40%] IT105Lists/FunctionsthatProduceLists
+writing output... [ 40%] IT105Lists/Glossary
+writing output... [ 40%] IT105Lists/ListComprehensions
+writing output... [ 41%] IT105Lists/ListDeletion
+writing output... [ 41%] IT105Lists/ListLength
+writing output... [ 41%] IT105Lists/ListMembership
+writing output... [ 42%] IT105Lists/ListMethods
+writing output... [ 42%] IT105Lists/ListSlices
+writing output... [ 42%] IT105Lists/ListValues
+writing output... [ 43%] IT105Lists/Listsandforloops
+writing output... [ 43%] IT105Lists/ListsareMutable
+writing output... [ 43%] IT105Lists/NestedLists
+writing output... [ 43%] IT105Lists/ObjectsandReferences
+writing output... [ 44%] IT105Lists/PureFunctions
+writing output... [ 44%] IT105Lists/RepetitionandReferences
+writing output... [ 44%] IT105Lists/StringsandLists
+writing output... [ 45%] IT105Lists/TheReturnofLSystems
+writing output... [ 45%] IT105Lists/TupleAssignment
+writing output... [ 45%] IT105Lists/TuplesandMutability
+writing output... [ 45%] IT105Lists/TuplesasReturnValues
+writing output... [ 46%] IT105Lists/UsingListsasParameters
+writing output... [ 46%] IT105Lists/WhichisBetter
+writing output... [ 46%] IT105Lists/intro-Lists
+writing output... [ 47%] IT105Lists/listTypeConversionFunction
+writing output... [ 47%] IT105Lists/toctree
+writing output... [ 47%] IT105MoreAboutIteration/2DimensionalIterationImageProcessing
+writing output... [ 48%] IT105MoreAboutIteration/AlgorithmsRevisited
+writing output... [ 48%] IT105MoreAboutIteration/Exercises
+writing output... [ 48%] IT105MoreAboutIteration/Glossary
+writing output... [ 48%] IT105MoreAboutIteration/ImageProcessingonYourOwn
+writing output... [ 49%] IT105MoreAboutIteration/Newton'sMethod
+writing output... [ 49%] IT105MoreAboutIteration/RandomlyWalkingTurtles
+writing output... [ 49%] IT105MoreAboutIteration/SentinelValuesAndValidation
+writing output... [ 50%] IT105MoreAboutIteration/SimpleTables
+writing output... [ 50%] IT105MoreAboutIteration/The3n1Sequence
+writing output... [ 50%] IT105MoreAboutIteration/Theforlooprevisited
+writing output... [ 51%] IT105MoreAboutIteration/ThewhileStatement
+writing output... [ 51%] IT105MoreAboutIteration/accumulatorRevisited
+writing output... [ 51%] IT105MoreAboutIteration/intro-IterationRevisited
+writing output... [ 51%] IT105MoreAboutIteration/toctree
+writing output... [ 52%] IT105Resources/Exercises
+writing output... [ 52%] IT105Resources/IT105_ClassDemos
+writing output... [ 52%] IT105Resources/IT105_DocExamples
+writing output... [ 53%] IT105Strings/ACollectionDataType
+writing output... [ 53%] IT105Strings/Afindfunction
+writing output... [ 53%] IT105Strings/Characterclassification
+writing output... [ 54%] IT105Strings/Exercises
+writing output... [ 54%] IT105Strings/Glossary
+writing output... [ 54%] IT105Strings/IndexOperatorWorkingwiththeCharactersofaString
+writing output... [ 54%] IT105Strings/Length
+writing output... [ 55%] IT105Strings/Loopingandcounting
+writing output... [ 55%] IT105Strings/OperationsonStrings
+writing output... [ 55%] IT105Strings/Optionalparameters
+writing output... [ 56%] IT105Strings/StringComparison
+writing output... [ 56%] IT105Strings/StringMethods
+writing output... [ 56%] IT105Strings/StringsRevisited
+writing output... [ 56%] IT105Strings/StringsareImmutable
+writing output... [ 57%] IT105Strings/Summary
+writing output... [ 57%] IT105Strings/TheAccumulatorPatternwithStrings
+writing output... [ 57%] IT105Strings/TheSliceOperator
+writing output... [ 58%] IT105Strings/Theinandnotinoperators
+writing output... [ 58%] IT105Strings/TraversalandtheforLoopByIndex
+writing output... [ 58%] IT105Strings/TraversalandtheforLoopByItem
+writing output... [ 59%] IT105Strings/TraversalandthewhileLoop
+writing output... [ 59%] IT105Strings/TurtlesandStringsandLSystems
+writing output... [ 59%] IT105Strings/toctree
+writing output... [ 59%] IntroRecursion/CalculatingtheSumofaListofNumbers
+writing output... [ 60%] IntroRecursion/ConvertinganIntegertoaStringinAnyBase
+writing output... [ 60%] IntroRecursion/Glossary
+writing output... [ 60%] IntroRecursion/ProgrammingExercises
+writing output... [ 61%] IntroRecursion/SierpinskiTriangle
+writing output... [ 61%] IntroRecursion/TheThreeLawsofRecursion
+writing output... [ 61%] IntroRecursion/WhatIsRecursion
+writing output... [ 62%] IntroRecursion/intro-VisualizingRecursion
+writing output... [ 62%] IntroRecursion/toctree
+writing output... [ 62%] Labs/astronomylab
+writing output... [ 62%] Labs/lab03_01
+writing output... [ 63%] Labs/lab04_01
+writing output... [ 63%] Labs/lab04_01a
+writing output... [ 63%] Labs/lab12_01
+writing output... [ 64%] Labs/lab12_02
+writing output... [ 64%] Labs/montepi
+writing output... [ 64%] Labs/pythonshell
+writing output... [ 64%] Labs/sequencelab
+writing output... [ 65%] Labs/sinlab
+writing output... [ 65%] Lists/AccessingElements
+writing output... [ 65%] Lists/Aliasing
+writing output... [ 66%] Lists/AppendversusConcatenate
+writing output... [ 66%] Lists/CloningLists
+writing output... [ 66%] Lists/ConcatenationandRepetition
+writing output... [ 67%] Lists/Exercises
+writing output... [ 67%] Lists/FunctionsthatProduceLists
+writing output... [ 67%] Lists/Glossary
+writing output... [ 67%] Lists/ListComprehensions
+writing output... [ 68%] Lists/ListDeletion
+writing output... [ 68%] Lists/ListLength
+writing output... [ 68%] Lists/ListMembership
+writing output... [ 69%] Lists/ListMethods
+writing output... [ 69%] Lists/ListSlices
+writing output... [ 69%] Lists/ListValues
+writing output... [ 70%] Lists/Listsandforloops
+writing output... [ 70%] Lists/ListsareMutable
+writing output... [ 70%] Lists/NestedLists
+writing output... [ 70%] Lists/ObjectsandReferences
+writing output... [ 71%] Lists/PureFunctions
+writing output... [ 71%] Lists/RepetitionandReferences
+writing output... [ 71%] Lists/StringsandLists
+writing output... [ 72%] Lists/TheReturnofLSystems
+writing output... [ 72%] Lists/TupleAssignment
+writing output... [ 72%] Lists/TuplesandMutability
+writing output... [ 72%] Lists/TuplesasReturnValues
+writing output... [ 73%] Lists/UsingListsasParameters
+writing output... [ 73%] Lists/WhichisBetter
+writing output... [ 73%] Lists/intro-Lists
+writing output... [ 74%] Lists/listTypeConversionFunction
+writing output... [ 74%] Lists/toctree
+writing output... [ 74%] MoreAboutIteration/2DimensionalIterationImageProcessing
+writing output... [ 75%] MoreAboutIteration/AlgorithmsRevisited
+writing output... [ 75%] MoreAboutIteration/Exercises
+writing output... [ 75%] MoreAboutIteration/Glossary
+writing output... [ 75%] MoreAboutIteration/ImageProcessingonYourOwn
+writing output... [ 76%] MoreAboutIteration/Newton'sMethod
+writing output... [ 76%] MoreAboutIteration/RandomlyWalkingTurtles
+writing output... [ 76%] MoreAboutIteration/SentinelValuesAndValidation
+writing output... [ 77%] MoreAboutIteration/SimpleTables
+writing output... [ 77%] MoreAboutIteration/The3n1Sequence
+writing output... [ 77%] MoreAboutIteration/Theforlooprevisited
+writing output... [ 78%] MoreAboutIteration/ThewhileStatement
+writing output... [ 78%] MoreAboutIteration/accumulatorRevisited
+writing output... [ 78%] MoreAboutIteration/intro-IterationRevisited
+writing output... [ 78%] MoreAboutIteration/toctree
+writing output... [ 79%] PythonModules/Exercises
+writing output... [ 79%] PythonModules/Glossary
+writing output... [ 79%] PythonModules/MoreAboutUsingModules
+writing output... [ 80%] PythonModules/Themathmodule
+writing output... [ 80%] PythonModules/Therandommodule
+writing output... [ 80%] PythonModules/modules
+writing output... [ 81%] PythonModules/toctree
+writing output... [ 81%] PythonTurtle/AFewMoreturtleMethodsandObservations
+writing output... [ 81%] PythonTurtle/Exercises
+writing output... [ 81%] PythonTurtle/FlowofExecutionoftheforLoop
+writing output... [ 82%] PythonTurtle/Glossary
+writing output... [ 82%] PythonTurtle/IT105_Exercises
+writing output... [ 82%] PythonTurtle/InstancesAHerdofTurtles
+writing output... [ 83%] PythonTurtle/IterationSimplifiesourTurtleProgram
+writing output... [ 83%] PythonTurtle/OurFirstTurtleProgram
+writing output... [ 83%] PythonTurtle/SummaryofTurtleMethods
+writing output... [ 83%] PythonTurtle/TheforLoop
+writing output... [ 84%] PythonTurtle/TherangeFunction
+writing output... [ 84%] PythonTurtle/intro-HelloLittleTurtles
+writing output... [ 84%] PythonTurtle/toctree
+writing output... [ 85%] Selection/BooleanFunctions
+writing output... [ 85%] Selection/BooleanValuesandBooleanExpressions
+writing output... [ 85%] Selection/Chainedconditionals
+writing output... [ 86%] Selection/ConditionalExecutionBinarySelection
+writing output... [ 86%] Selection/Exercises
+writing output... [ 86%] Selection/Glossary
+writing output... [ 86%] Selection/Logicaloperators
+writing output... [ 87%] Selection/Nestedconditionals
+writing output... [ 87%] Selection/OmittingtheelseClauseUnarySelection
+writing output... [ 87%] Selection/PrecedenceofOperators
+writing output... [ 88%] Selection/toctree
+writing output... [ 88%] SimplePythonData/Exercises
+writing output... [ 88%] SimplePythonData/Glossary
+writing output... [ 89%] SimplePythonData/Input
+writing output... [ 89%] SimplePythonData/OperatorsandOperands
+writing output... [ 89%] SimplePythonData/OrderofOperations
+writing output... [ 89%] SimplePythonData/Reassignment
+writing output... [ 90%] SimplePythonData/StatementsandExpressions
+writing output... [ 90%] SimplePythonData/Typeconversionfunctions
+writing output... [ 90%] SimplePythonData/UpdatingVariables
+writing output... [ 91%] SimplePythonData/ValuesandDataTypes
+writing output... [ 91%] SimplePythonData/VariableNamesandKeywords
+writing output... [ 91%] SimplePythonData/Variables
+writing output... [ 91%] SimplePythonData/intro-VariablesExpressionsandStatements
+writing output... [ 92%] SimplePythonData/toctree
+writing output... [ 92%] Strings/ACollectionDataType
+writing output... [ 92%] Strings/Afindfunction
+writing output... [ 93%] Strings/Characterclassification
+writing output... [ 93%] Strings/Exercises
+writing output... [ 93%] Strings/Glossary
+writing output... [ 94%] Strings/IndexOperatorWorkingwiththeCharactersofaString
+writing output... [ 94%] Strings/Length
+writing output... [ 94%] Strings/Loopingandcounting
+writing output... [ 94%] Strings/OperationsonStrings
+writing output... [ 95%] Strings/Optionalparameters
+writing output... [ 95%] Strings/StringComparison
+writing output... [ 95%] Strings/StringMethods
+writing output... [ 96%] Strings/StringsRevisited
+writing output... [ 96%] Strings/StringsareImmutable
+writing output... [ 96%] Strings/Summary
+writing output... [ 97%] Strings/TheAccumulatorPatternwithStrings
+writing output... [ 97%] Strings/TheSliceOperator
+writing output... [ 97%] Strings/Theinandnotinoperators
 writing output... [ 97%] Strings/TraversalandtheforLoopByIndex
-writing output... [ 97%] Strings/TraversalandtheforLoopByItem
+writing output... [ 98%] Strings/TraversalandtheforLoopByItem
 writing output... [ 98%] Strings/TraversalandthewhileLoop
 writing output... [ 98%] Strings/TurtlesandStringsandLSystems
-writing output... [ 98%] Strings/toctree
+writing output... [ 99%] Strings/toctree
 writing output... [ 99%] assignments
 writing output... [ 99%] index
 writing output... [100%] navhelp
 
 generating indices... genindex
 writing additional pages... search
-copying images... [  1%] Functions/Figures/blackboxfun.png
-copying images... [  2%] Lists/Figures/refrep2.png
-copying images... [  4%] Lists/Figures/refrep1.png
-copying images... [  5%] Strings/Figures/indexvalues.png
-copying images... [  6%] IntroRecursion/Figures/stCallTree.png
-copying images... [  8%] Functions/Figures/star.png
-copying images... [  9%] Lists/Figures/refdiag4.png
-copying images... [ 10%] Functions/Figures/tess08.png
-copying images... [ 12%] GeneralIntro/Figures/compile.png
-copying images... [ 13%] ClassesBasics/Figures/objectpic3.png
-copying images... [ 15%] GUIandEventDrivenProgramming/Figures/Whack_a_mole_design.png
-copying images... [ 16%] _static/navbar_user_dropdown.png
-copying images... [ 17%] SimplePythonData/Figures/reassign1.png
-copying images... [ 19%] MoreAboutIteration/Figures/image.png
-copying images... [ 20%] Selection/Figures/flowchart_if_only.png
-copying images... [ 21%] IntroRecursion/Figures/sierpinski.png
-copying images... [ 23%] PythonModules/Figures/pythondocmedium.png
-copying images... [ 24%] Labs/Figures/dartboards.png
-copying images... [ 26%] Functions/Figures/distance_formula.png
-copying images... [ 27%] ClassesDiggingDeeper/Figures/fractionpic3.png
-copying images... [ 28%] IntroRecursion/Figures/sumlistIn.png
-copying images... [ 30%] Labs/Figures/python_shell.png
-copying images... [ 31%] _static/navbar_page_dropdown.png
-copying images... [ 32%] Lists/Figures/refdiag2.png
+copying images... [  1%] PythonTurtle/Figures/tess_clock1.png
+copying images... [  2%] GeneralIntro/Figures/compile.png
+copying images... [  3%] Selection/Figures/flowchart_if_only.png
+copying images... [  4%] IT105Functions/Figures/star.png
+copying images... [  5%] SimplePythonData/Figures/refdiagram1.png
+copying images... [  6%] ClassesDiggingDeeper/Figures/fractionpic3.png
+copying images... [  7%] PythonTurtle/Figures/new_flowchart_for.png
+copying images... [  8%] IT105Functions/Figures/squarefun.png
+copying images... [  9%] Functions/Figures/turtleproc.png
+copying images... [ 10%] ClassesBasics/Figures/objectpic2.png
+copying images... [ 11%] Functions/Figures/regularpolygon.png
+copying images... [ 12%] IT105Lists/Figures/references4.png
+copying images... [ 13%] Functions/Figures/five_stars.png
+copying images... [ 14%] Lists/Figures/references4.png
+copying images... [ 15%] Selection/Figures/flowchart_nested_conditional.png
+copying images... [ 16%] PythonModules/Figures/modreference.png
+copying images... [ 17%] MoreAboutIteration/Figures/sum2n.PNG
+copying images... [ 18%] IT105Functions/Figures/distance_formula.png
+copying images... [ 19%] Lists/Figures/refdiag3.png
+copying images... [ 20%] IT105Lists/Figures/refrep1.png
+copying images... [ 21%] IntroRecursion/Figures/tree2.png
+copying images... [ 22%] Labs/Figures/graphpaper.jpg
+copying images... [ 23%] IT105Functions/Figures/turtleproc.png
+copying images... [ 24%] SimplePythonData/Figures/compoundInterest.png
+copying images... [ 25%] IT105Lists/Figures/refdiag4.png
+copying images... [ 26%] Functions/Figures/blackboxproc.png
+copying images... [ 27%] Lists/Figures/refrep2.png
+copying images... [ 28%] Strings/Figures/indexvalues.png
+copying images... [ 29%] IntroRecursion/Figures/stCallTree.png
+copying images... [ 30%] IT105Lists/Figures/refdiag2.png
+copying images... [ 31%] IT105Lists/Figures/refdiag1.png
+copying images... [ 32%] ClassesBasics/Figures/objectpic3.png
 copying images... [ 34%] IntroRecursion/Figures/toStrBase2.png
-copying images... [ 35%] GUIandEventDrivenProgramming/Figures/Grouping_examples.png
-copying images... [ 36%] Functions/Figures/turtleproc.png
-copying images... [ 38%] PythonTurtle/../_static/turtleTest1.png
-copying images... [ 39%] IntroRecursion/Figures/tree2.png
-copying images... [ 41%] ClassesBasics/Figures/objectpic1.png
-copying images... [ 42%] ClassesBasics/Figures/objectpic2.png
-copying images... [ 43%] Labs/Figures/graphpaper.jpg
-copying images... [ 45%] Functions/Figures/regularpolygon.png
-copying images... [ 46%] IntroRecursion/Figures/toStr.png
-copying images... [ 47%] PythonModules/Figures/moduleindexmedium.png
-copying images... [ 49%] Functions/Figures/five_stars.png
-copying images... [ 50%] ClassesBasics/Figures/objectpic5.png
-copying images... [ 52%] Labs/Figures/shell_expressions.png
-copying images... [ 53%] Lists/Figures/references4.png
-copying images... [ 54%] Functions/Figures/tess_spirals.png
-copying images... [ 56%] ClassesDiggingDeeper/Figures/fractionpic1.png
-copying images... [ 57%] GeneralIntro/Figures/interpret.png
-copying images... [ 58%] Selection/Figures/flowchart_nested_conditional.png
-copying images... [ 60%] IntroRecursion/Figures/sumlistOut.png
-copying images... [ 61%] PythonTurtle/Figures/tess_clock1.png
-copying images... [ 63%] PythonModules/Figures/modreference.png
-copying images... [ 64%] Selection/Figures/flowchart_chained_conditional.png
-copying images... [ 65%] PythonModules/Figures/mathmod.png
-copying images... [ 67%] SimplePythonData/Figures/refdiagram1.png
-copying images... [ 68%] ClassesBasics/Figures/objectpic4.png
-copying images... [ 69%] Functions/Figures/five_squares.png
-copying images... [ 71%] Functions/Figures/tess_bar_1.png
-copying images... [ 72%] Functions/Figures/nested_squares.png
-copying images... [ 73%] _static/navbar_logo_link.png
-copying images... [ 75%] MoreAboutIteration/Figures/sum2n.PNG
-copying images... [ 76%] Selection/Figures/flowchart_if_else.png
-copying images... [ 78%] _static/navbar_search_dropdown.png
-copying images... [ 79%] ClassesDiggingDeeper/Figures/fractionpic2.png
-copying images... [ 80%] PythonTurtle/Figures/star.png
-copying images... [ 82%] Lists/Figures/refdiag3.png
-copying images... [ 83%] _static/navbar_title_link.png
-copying images... [ 84%] Lists/Figures/refdiag1.png
-copying images... [ 86%] Functions/Figures/squarefun.png
-copying images... [ 87%] Files/Figures/ExampleFileHierarchy.png
-copying images... [ 89%] PythonModules/Figures/turtlemodmedium.png
-copying images... [ 90%] MoreAboutIteration/Figures/while_flow.png
-copying images... [ 91%] IntroRecursion/Figures/tree1.png
-copying images... [ 93%] GUIandEventDrivenProgramming/Figures/All_user_input_widgets.png
-copying images... [ 94%] Dictionaries/Figures/sparse.png
-copying images... [ 95%] SimplePythonData/Figures/compoundInterest.png
-copying images... [ 97%] PythonTurtle/Figures/new_flowchart_for.png
-copying images... [ 98%] Functions/Figures/blackboxproc.png
+copying images... [ 35%] SimplePythonData/Figures/reassign1.png
+copying images... [ 36%] IT105MoreAboutIteration/Figures/while_flow.png
+copying images... [ 37%] ClassesDiggingDeeper/Figures/fractionpic1.png
+copying images... [ 38%] Labs/Figures/python_shell.png
+copying images... [ 39%] IT105Functions/Figures/tess_bar_1.png
+copying images... [ 40%] PythonModules/Figures/pythondocmedium.png
+copying images... [ 41%] IT105Lists/Figures/refdiag3.png
+copying images... [ 42%] IntroRecursion/Figures/tree1.png
+copying images... [ 43%] IT105Functions/Figures/five_stars.png
+copying images... [ 44%] PythonModules/Figures/moduleindexmedium.png
+copying images... [ 45%] IT105MoreAboutIteration/Figures/sum2n.PNG
+copying images... [ 46%] Dictionaries/Figures/sparse.png
+copying images... [ 47%] Labs/Figures/shell_expressions.png
+copying images... [ 48%] _static/navbar_title_link.png
+copying images... [ 49%] _static/navbar_search_dropdown.png
+copying images... [ 50%] Functions/Figures/five_squares.png
+copying images... [ 51%] Functions/Figures/nested_squares.png
+copying images... [ 52%] _static/navbar_logo_link.png
+copying images... [ 53%] Selection/Figures/flowchart_if_else.png
+copying images... [ 54%] IT105Functions/Figures/tess_spirals.png
+copying images... [ 55%] Files/Figures/ExampleFileHierarchy.png
+copying images... [ 56%] PythonModules/Figures/turtlemodmedium.png
+copying images... [ 57%] IT105Functions/Figures/five_squares.png
+copying images... [ 58%] _static/navbar_user_dropdown.png
+copying images... [ 59%] IntroRecursion/Figures/sierpinski.png
+copying images... [ 60%] IT105Functions/Figures/blackboxfun.png
+copying images... [ 61%] Labs/Figures/dartboards.png
+copying images... [ 62%] Functions/Figures/distance_formula.png
+copying images... [ 63%] GUIandEventDrivenProgramming/Figures/Grouping_examples.png
+copying images... [ 64%] IT105MoreAboutIteration/Figures/image.png
+copying images... [ 65%] IntroRecursion/Figures/toStr.png
+copying images... [ 67%] _static/navbar_page_dropdown.png
+copying images... [ 68%] IT105Functions/Figures/nested_squares.png
+copying images... [ 69%] IntroRecursion/Figures/sumlistOut.png
+copying images... [ 70%] IT105Functions/Figures/blackboxproc.png
+copying images... [ 71%] Selection/Figures/flowchart_chained_conditional.png
+copying images... [ 72%] PythonModules/Figures/mathmod.png
+copying images... [ 73%] MoreAboutIteration/Figures/image.png
+copying images... [ 74%] PythonTurtle/Figures/star.png
+copying images... [ 75%] Functions/Figures/squarefun.png
+copying images... [ 76%] GUIandEventDrivenProgramming/Figures/Whack_a_mole_design.png
+copying images... [ 77%] GUIandEventDrivenProgramming/Figures/All_user_input_widgets.png
+copying images... [ 78%] Functions/Figures/blackboxfun.png
+copying images... [ 79%] Lists/Figures/refrep1.png
+copying images... [ 80%] Functions/Figures/star.png
+copying images... [ 81%] Lists/Figures/refdiag4.png
+copying images... [ 82%] Functions/Figures/tess08.png
+copying images... [ 83%] IT105Functions/Figures/tess08.png
+copying images... [ 84%] Lists/Figures/refdiag2.png
+copying images... [ 85%] IT105Functions/Figures/regularpolygon.png
+copying images... [ 86%] ClassesBasics/Figures/objectpic1.png
+copying images... [ 87%] ClassesBasics/Figures/objectpic5.png
+copying images... [ 88%] Functions/Figures/tess_spirals.png
+copying images... [ 89%] IntroRecursion/Figures/sumlistIn.png
+copying images... [ 90%] GeneralIntro/Figures/interpret.png
+copying images... [ 91%] IT105Strings/Figures/indexvalues.png
+copying images... [ 92%] ClassesBasics/Figures/objectpic4.png
+copying images... [ 93%] Functions/Figures/tess_bar_1.png
+copying images... [ 94%] IT105Lists/Figures/refrep2.png
+copying images... [ 95%] ClassesDiggingDeeper/Figures/fractionpic2.png
+copying images... [ 96%] MoreAboutIteration/Figures/while_flow.png
+copying images... [ 97%] Lists/Figures/refdiag1.png
+copying images... [ 98%] PythonTurtle/../_static/turtleTest1.png
 copying images... [100%] Labs/Figures/sinpic.png
 
 copying static files... done
 copying extra files... done
 dumping search index in English (code: en) ... done
 dumping object inventory... done
-build succeeded, 58 warnings.
+build succeeded, 100 warnings.
 
 The HTML pages are in build/AY184_IT105.
 Error in building AY184_IT105
@@ -757,9 +953,93 @@ AY184_IT105/GeneralIntro/intro-TheWayoftheProgram.html
 AY184_IT105/GeneralIntro/toctree.html
 AY184_IT105/ICE/ICE_LSN08_01.html
 AY184_IT105/ICE/ICE_LSN10_01.html
+AY184_IT105/IT105Functions/ATurtleBarChart.html
+AY184_IT105/IT105Functions/Composition.html
+AY184_IT105/IT105Functions/FlowofExecutionSummary.html
+AY184_IT105/IT105Functions/Functionscancallotherfunctions.html
+AY184_IT105/IT105Functions/Functionsthatreturnvalues.html
+AY184_IT105/IT105Functions/Glossary.html
+AY184_IT105/IT105Functions/ProgramDevelopment.html
+AY184_IT105/IT105Functions/ProgrammingWithStyle.html
+AY184_IT105/IT105Functions/TheAccumulatorPattern.html
+AY184_IT105/IT105Functions/UnitTesting.html
+AY184_IT105/IT105Functions/Variablesandparametersarelocal.html
+AY184_IT105/IT105Functions/functions.html
+AY184_IT105/IT105Functions/mainfunction.html
+AY184_IT105/IT105Functions/thinkcspyExercises.html
+AY184_IT105/IT105Functions/toctree.html
+AY184_IT105/IT105Lists/AccessingElements.html
+AY184_IT105/IT105Lists/Aliasing.html
+AY184_IT105/IT105Lists/AppendversusConcatenate.html
+AY184_IT105/IT105Lists/CloningLists.html
+AY184_IT105/IT105Lists/ConcatenationandRepetition.html
+AY184_IT105/IT105Lists/Exercises.html
+AY184_IT105/IT105Lists/FunctionsthatProduceLists.html
+AY184_IT105/IT105Lists/Glossary.html
+AY184_IT105/IT105Lists/ListComprehensions.html
+AY184_IT105/IT105Lists/ListDeletion.html
+AY184_IT105/IT105Lists/ListLength.html
+AY184_IT105/IT105Lists/ListMembership.html
+AY184_IT105/IT105Lists/ListMethods.html
+AY184_IT105/IT105Lists/ListSlices.html
+AY184_IT105/IT105Lists/ListValues.html
+AY184_IT105/IT105Lists/Listsandforloops.html
+AY184_IT105/IT105Lists/ListsareMutable.html
+AY184_IT105/IT105Lists/NestedLists.html
+AY184_IT105/IT105Lists/ObjectsandReferences.html
+AY184_IT105/IT105Lists/PureFunctions.html
+AY184_IT105/IT105Lists/RepetitionandReferences.html
+AY184_IT105/IT105Lists/StringsandLists.html
+AY184_IT105/IT105Lists/TheReturnofLSystems.html
+AY184_IT105/IT105Lists/TupleAssignment.html
+AY184_IT105/IT105Lists/TuplesandMutability.html
+AY184_IT105/IT105Lists/TuplesasReturnValues.html
+AY184_IT105/IT105Lists/UsingListsasParameters.html
+AY184_IT105/IT105Lists/WhichisBetter.html
+AY184_IT105/IT105Lists/intro-Lists.html
+AY184_IT105/IT105Lists/listTypeConversionFunction.html
+AY184_IT105/IT105Lists/toctree.html
+AY184_IT105/IT105MoreAboutIteration/2DimensionalIterationImageProcessing.html
+AY184_IT105/IT105MoreAboutIteration/AlgorithmsRevisited.html
+AY184_IT105/IT105MoreAboutIteration/Exercises.html
+AY184_IT105/IT105MoreAboutIteration/Glossary.html
+AY184_IT105/IT105MoreAboutIteration/ImageProcessingonYourOwn.html
+AY184_IT105/IT105MoreAboutIteration/Newton'sMethod.html
+AY184_IT105/IT105MoreAboutIteration/RandomlyWalkingTurtles.html
+AY184_IT105/IT105MoreAboutIteration/SentinelValuesAndValidation.html
+AY184_IT105/IT105MoreAboutIteration/SimpleTables.html
+AY184_IT105/IT105MoreAboutIteration/The3n1Sequence.html
+AY184_IT105/IT105MoreAboutIteration/Theforlooprevisited.html
+AY184_IT105/IT105MoreAboutIteration/ThewhileStatement.html
+AY184_IT105/IT105MoreAboutIteration/accumulatorRevisited.html
+AY184_IT105/IT105MoreAboutIteration/intro-IterationRevisited.html
+AY184_IT105/IT105MoreAboutIteration/toctree.html
 AY184_IT105/IT105Resources/Exercises.html
 AY184_IT105/IT105Resources/IT105_ClassDemos.html
 AY184_IT105/IT105Resources/IT105_DocExamples.html
+AY184_IT105/IT105Strings/ACollectionDataType.html
+AY184_IT105/IT105Strings/Afindfunction.html
+AY184_IT105/IT105Strings/Characterclassification.html
+AY184_IT105/IT105Strings/Exercises.html
+AY184_IT105/IT105Strings/Glossary.html
+AY184_IT105/IT105Strings/IndexOperatorWorkingwiththeCharactersofaString.html
+AY184_IT105/IT105Strings/Length.html
+AY184_IT105/IT105Strings/Loopingandcounting.html
+AY184_IT105/IT105Strings/OperationsonStrings.html
+AY184_IT105/IT105Strings/Optionalparameters.html
+AY184_IT105/IT105Strings/StringComparison.html
+AY184_IT105/IT105Strings/StringMethods.html
+AY184_IT105/IT105Strings/StringsRevisited.html
+AY184_IT105/IT105Strings/StringsareImmutable.html
+AY184_IT105/IT105Strings/Summary.html
+AY184_IT105/IT105Strings/TheAccumulatorPatternwithStrings.html
+AY184_IT105/IT105Strings/TheSliceOperator.html
+AY184_IT105/IT105Strings/Theinandnotinoperators.html
+AY184_IT105/IT105Strings/TraversalandtheforLoopByIndex.html
+AY184_IT105/IT105Strings/TraversalandtheforLoopByItem.html
+AY184_IT105/IT105Strings/TraversalandthewhileLoop.html
+AY184_IT105/IT105Strings/TurtlesandStringsandLSystems.html
+AY184_IT105/IT105Strings/toctree.html
 AY184_IT105/IntroRecursion/CalculatingtheSumofaListofNumbers.html
 AY184_IT105/IntroRecursion/ConvertinganIntegertoaStringinAnyBase.html
 AY184_IT105/IntroRecursion/Glossary.html
@@ -1016,9 +1296,93 @@ AY184_IT105/doctrees/GeneralIntro/intro-TheWayoftheProgram.doctree
 AY184_IT105/doctrees/GeneralIntro/toctree.doctree
 AY184_IT105/doctrees/ICE/ICE_LSN08_01.doctree
 AY184_IT105/doctrees/ICE/ICE_LSN10_01.doctree
+AY184_IT105/doctrees/IT105Functions/ATurtleBarChart.doctree
+AY184_IT105/doctrees/IT105Functions/Composition.doctree
+AY184_IT105/doctrees/IT105Functions/FlowofExecutionSummary.doctree
+AY184_IT105/doctrees/IT105Functions/Functionscancallotherfunctions.doctree
+AY184_IT105/doctrees/IT105Functions/Functionsthatreturnvalues.doctree
+AY184_IT105/doctrees/IT105Functions/Glossary.doctree
+AY184_IT105/doctrees/IT105Functions/ProgramDevelopment.doctree
+AY184_IT105/doctrees/IT105Functions/ProgrammingWithStyle.doctree
+AY184_IT105/doctrees/IT105Functions/TheAccumulatorPattern.doctree
+AY184_IT105/doctrees/IT105Functions/UnitTesting.doctree
+AY184_IT105/doctrees/IT105Functions/Variablesandparametersarelocal.doctree
+AY184_IT105/doctrees/IT105Functions/functions.doctree
+AY184_IT105/doctrees/IT105Functions/mainfunction.doctree
+AY184_IT105/doctrees/IT105Functions/thinkcspyExercises.doctree
+AY184_IT105/doctrees/IT105Functions/toctree.doctree
+AY184_IT105/doctrees/IT105Lists/AccessingElements.doctree
+AY184_IT105/doctrees/IT105Lists/Aliasing.doctree
+AY184_IT105/doctrees/IT105Lists/AppendversusConcatenate.doctree
+AY184_IT105/doctrees/IT105Lists/CloningLists.doctree
+AY184_IT105/doctrees/IT105Lists/ConcatenationandRepetition.doctree
+AY184_IT105/doctrees/IT105Lists/Exercises.doctree
+AY184_IT105/doctrees/IT105Lists/FunctionsthatProduceLists.doctree
+AY184_IT105/doctrees/IT105Lists/Glossary.doctree
+AY184_IT105/doctrees/IT105Lists/ListComprehensions.doctree
+AY184_IT105/doctrees/IT105Lists/ListDeletion.doctree
+AY184_IT105/doctrees/IT105Lists/ListLength.doctree
+AY184_IT105/doctrees/IT105Lists/ListMembership.doctree
+AY184_IT105/doctrees/IT105Lists/ListMethods.doctree
+AY184_IT105/doctrees/IT105Lists/ListSlices.doctree
+AY184_IT105/doctrees/IT105Lists/ListValues.doctree
+AY184_IT105/doctrees/IT105Lists/Listsandforloops.doctree
+AY184_IT105/doctrees/IT105Lists/ListsareMutable.doctree
+AY184_IT105/doctrees/IT105Lists/NestedLists.doctree
+AY184_IT105/doctrees/IT105Lists/ObjectsandReferences.doctree
+AY184_IT105/doctrees/IT105Lists/PureFunctions.doctree
+AY184_IT105/doctrees/IT105Lists/RepetitionandReferences.doctree
+AY184_IT105/doctrees/IT105Lists/StringsandLists.doctree
+AY184_IT105/doctrees/IT105Lists/TheReturnofLSystems.doctree
+AY184_IT105/doctrees/IT105Lists/TupleAssignment.doctree
+AY184_IT105/doctrees/IT105Lists/TuplesandMutability.doctree
+AY184_IT105/doctrees/IT105Lists/TuplesasReturnValues.doctree
+AY184_IT105/doctrees/IT105Lists/UsingListsasParameters.doctree
+AY184_IT105/doctrees/IT105Lists/WhichisBetter.doctree
+AY184_IT105/doctrees/IT105Lists/intro-Lists.doctree
+AY184_IT105/doctrees/IT105Lists/listTypeConversionFunction.doctree
+AY184_IT105/doctrees/IT105Lists/toctree.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/2DimensionalIterationImageProcessing.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/AlgorithmsRevisited.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/Exercises.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/Glossary.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/ImageProcessingonYourOwn.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/Newton'sMethod.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/RandomlyWalkingTurtles.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/SentinelValuesAndValidation.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/SimpleTables.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/The3n1Sequence.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/Theforlooprevisited.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/ThewhileStatement.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/accumulatorRevisited.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/intro-IterationRevisited.doctree
+AY184_IT105/doctrees/IT105MoreAboutIteration/toctree.doctree
 AY184_IT105/doctrees/IT105Resources/Exercises.doctree
 AY184_IT105/doctrees/IT105Resources/IT105_ClassDemos.doctree
 AY184_IT105/doctrees/IT105Resources/IT105_DocExamples.doctree
+AY184_IT105/doctrees/IT105Strings/ACollectionDataType.doctree
+AY184_IT105/doctrees/IT105Strings/Afindfunction.doctree
+AY184_IT105/doctrees/IT105Strings/Characterclassification.doctree
+AY184_IT105/doctrees/IT105Strings/Exercises.doctree
+AY184_IT105/doctrees/IT105Strings/Glossary.doctree
+AY184_IT105/doctrees/IT105Strings/IndexOperatorWorkingwiththeCharactersofaString.doctree
+AY184_IT105/doctrees/IT105Strings/Length.doctree
+AY184_IT105/doctrees/IT105Strings/Loopingandcounting.doctree
+AY184_IT105/doctrees/IT105Strings/OperationsonStrings.doctree
+AY184_IT105/doctrees/IT105Strings/Optionalparameters.doctree
+AY184_IT105/doctrees/IT105Strings/StringComparison.doctree
+AY184_IT105/doctrees/IT105Strings/StringMethods.doctree
+AY184_IT105/doctrees/IT105Strings/StringsRevisited.doctree
+AY184_IT105/doctrees/IT105Strings/StringsareImmutable.doctree
+AY184_IT105/doctrees/IT105Strings/Summary.doctree
+AY184_IT105/doctrees/IT105Strings/TheAccumulatorPatternwithStrings.doctree
+AY184_IT105/doctrees/IT105Strings/TheSliceOperator.doctree
+AY184_IT105/doctrees/IT105Strings/Theinandnotinoperators.doctree
+AY184_IT105/doctrees/IT105Strings/TraversalandtheforLoopByIndex.doctree
+AY184_IT105/doctrees/IT105Strings/TraversalandtheforLoopByItem.doctree
+AY184_IT105/doctrees/IT105Strings/TraversalandthewhileLoop.doctree
+AY184_IT105/doctrees/IT105Strings/TurtlesandStringsandLSystems.doctree
+AY184_IT105/doctrees/IT105Strings/toctree.doctree
 AY184_IT105/doctrees/IntroRecursion/CalculatingtheSumofaListofNumbers.doctree
 AY184_IT105/doctrees/IntroRecursion/ConvertinganIntegertoaStringinAnyBase.doctree
 AY184_IT105/doctrees/IntroRecursion/Glossary.doctree
@@ -1153,6 +1517,6 @@ AY184_IT105/doctrees/Strings/TraversalandthewhileLoop.doctree
 AY184_IT105/doctrees/Strings/TurtlesandStringsandLSystems.doctree
 AY184_IT105/doctrees/Strings/toctree.doctree
 
-sent 15854300 bytes  received 9929 bytes  2884405.27 bytes/sec
-total size is 85689142  speedup is 5.40
+sent 21396065 bytes  received 13133 bytes  3892581.45 bytes/sec
+total size is 91954565  speedup is 4.30
 Success! Book deployed
